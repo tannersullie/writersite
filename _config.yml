@@ -22,7 +22,7 @@ description:           >- # this means to ignore newlines until "baseurl:"
   The works included here are focused on technical writing, but who knows what I may explore!
 twitter_username:      username
 github_username:       tannersullie
-github: [metadata]
+github: [metadata] 
 minimal_mistakes_skin: default
 search:                true
 
