@@ -96,7 +96,7 @@ footer:
       icon:            "fab fa-fw fa-instagram"
       url:             "https://instagram.com/"
     - label:           "Post Archives"
-      icon:            "fab fa-fw fa-box-archive"
+      icon:            "fas fa-archive"
       url:             /meta-archives/
 
 defaults:
