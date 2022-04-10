@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title:                 Tanner Sullivan's Portfolio Site
+title:                 Tanner's Writing Site
 subtitle:              "Including professional, educational, and fun projects"
 logo:                  "/assets/images/TS-Logo2021-blacknwhite.png"
 email:                 tssullivan115@icloud.com
