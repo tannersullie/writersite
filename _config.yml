@@ -13,25 +13,32 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+title:                 Tanner Sullivan's Portfolio Site
+subtitle:              "Including professional, educational, and fun projects"
+logo:                  "/assets/images/TS-Logo2021-blacknwhite.png"
+email:                 tssullivan115@icloud.com
+description:           >- # this means to ignore newlines until "baseurl:"
+  As I level up, I hope to share some of my favorite projects in this portfolio site.
+  The works included here are focused on technical writing, but who knows what I may explore!
+twitter_username:      username
+github_username:       tannersullie
+github: [metadata]
 minimal_mistakes_skin: default
-search: true
+search:                true
 
 # Build settings
-markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+markdown:              kramdown
+remote_theme:          mmistakes/minimal-mistakes
+minimal_mistakes_skin: "dirt" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+locale: "en-US"
+timezone: America/Chicago
+url: https://www.tannerswriting.site
+og_image: /assets/images/TS-Logo2021-blacknwhite.png
 # Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+permalink:             /:categories/:title/
+paginate:              5 # amount of posts to show
+paginate_path:         /page:num/
+timezone:              # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -58,58 +65,66 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   :             "Tanner Sullivan"
+  avatar :             "/assets/images/me.png"
+  bio    :             "M.A in Professional and Technical Writing"
+  repository:          "tannersullie/writersite"
+  location:            "Arkansas, US"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label:           "Website"
+      icon:            "fas fa-fw fa-link"
+      url:             "https://www.tannerswriting.site"
+    - label:           "Twitter"
+      icon:            "fab fa-fw fa-twitter-square"
+      url:             "https://twitter.com/"
+    - label:           "GitHub"
+      icon:            "fab fa-fw fa-github"
+      url:             "https://github.com/tannersullie"
+    - label:           "Instagram"
+      icon:            "fab fa-fw fa-instagram"
+      url:             "https://instagram.com/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label:           "Twitter"
+      icon:            "fab fa-fw fa-twitter-square"
+      url:             "https://twitter.com/"
+    - label:           "GitHub"
+      icon:            "fab fa-fw fa-github"
+      url:             "https://github.com/tannersullie"
+    - label:           "Instagram"
+      icon:            "fab fa-fw fa-instagram"
+      url:             "https://instagram.com/"
+    - label:           "Post Archives"
+      icon:            "fab fa-fw fa-box-archive"
+      url:             /meta-archives/
 
 defaults:
   # _posts
   - scope:
-      path: ""
-      type: posts
+      path:            ""
+      type:            posts
     values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      layout:          single
+      author_profile:  true
+      read_time:       true
+      comments:        true
+      share:           true
+      related:         true
   # _pages
   - scope:
-      path: "_pages"
-      type: pages
+      path:            "_pages"
+      type:            pages
     values:
-      layout: single
-      author_profile: true
+      layout:          single
+      author_profile:  true
+      show_date:       true
+    breadcrumbs:           true #disabled by default
+
 
 category_archive:
-  type: liquid
-  path: /categories/
+  type:                liquid
+  path:                /categories/
 tag_archive:
-  type: liquid
-  path: /tags/
+  type:                liquid
+  path:                /tags/
