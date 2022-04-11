@@ -71,9 +71,9 @@ author:
   repository:          "tannersullie/writersite"
   location:            "Arkansas, US"
   links:
-    - label:           "Website"
+    - label:           "Teaching Statement"
       icon:            "fas fa-fw fa-link"
-      url:             "https://www.tannerswriting.site"
+      url:             "https://www.tannerswriting.site/teaching-statement/"
     - label:           "Twitter"
       icon:            "fab fa-fw fa-twitter-square"
       url:             "https://twitter.com/"
