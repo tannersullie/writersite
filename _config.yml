@@ -14,13 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title:                 Tanner's Writing Site
-subtitle:              "Including professional, educational, and fun projects"
+subtitle:              "My Portfolio"
 logo:                  "/assets/images/TS-Logo2021-blacknwhite.png"
 email:                 tssullivan115@icloud.com
 description:           >- # this means to ignore newlines until "baseurl:"
   As I level up, I hope to share some of my favorite projects in this portfolio site.
   The works included here are focused on technical writing, but who knows what I may explore!
-twitter_username:      username
+twitter_username:      sulliespace
 github_username:       tannersullie
 github: [metadata]
 minimal_mistakes_skin: default
@@ -80,9 +80,9 @@ author:
     - label:           "GitHub"
       icon:            "fab fa-fw fa-github"
       url:             "https://github.com/tannersullie"
-    - label:           "Instagram"
-      icon:            "fab fa-fw fa-instagram"
-      url:             "https://instagram.com/"
+    - label:           "LinkedIn"
+      icon:            "fab fa-fw fa-linkedin"
+      url:             "https://www.linkedin.com/in/tanner-sullivan-184491121/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B%2BWCNEXP5RjqwoVrS5yETYg%3D%3D"
 
 footer:
   links:
@@ -92,9 +92,9 @@ footer:
     - label:           "GitHub"
       icon:            "fab fa-fw fa-github"
       url:             "https://github.com/tannersullie"
-    - label:           "Instagram"
-      icon:            "fab fa-fw fa-instagram"
-      url:             "https://instagram.com/"
+    - label:           "LinkedIn"
+      icon:            "fab fa-fw fa-linkedin"
+      url:             "https://www.linkedin.com/in/tanner-sullivan-184491121/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B%2BWCNEXP5RjqwoVrS5yETYg%3D%3D"
     - label:           "Post Archives"
       icon:            "fas fa-archive"
       url:             /meta-archives/
