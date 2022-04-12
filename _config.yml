@@ -76,7 +76,7 @@ author:
       url:             "https://www.tannerswriting.site/teaching-statement/"
     - label:           "Twitter"
       icon:            "fab fa-fw fa-twitter-square"
-      url:             "https://twitter.com/"
+      url:             "https://twitter.com/sulliespace"
     - label:           "GitHub"
       icon:            "fab fa-fw fa-github"
       url:             "https://github.com/tannersullie"
@@ -88,7 +88,7 @@ footer:
   links:
     - label:           "Twitter"
       icon:            "fab fa-fw fa-twitter-square"
-      url:             "https://twitter.com/"
+      url:             "https://twitter.com/sulliespace"
     - label:           "GitHub"
       icon:            "fab fa-fw fa-github"
       url:             "https://github.com/tannersullie"

@@ -7,26 +7,26 @@ author_profile: false
 excerpt: "Welcome to my portfolio site! Here I hope to house professional, educational, and fun projects I felt help me grow as an individual."
 header:
   # overlay_
-  image: /assets/images/banner-space.png
-  overlay_filter: .3 # rgba() linear-gradient(rgba()) or decimal value for black
+  image: /assets/images/writing-site-splash.svg
+  # overlay_filter: .3 # rgba() linear-gradient(rgba()) or decimal value for black
 # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 #  actions:
 #    - label: "More Info"
 #      url: "https://unsplash.com"
 
-feature_row:
-  - url: assets/images/professional-artifacts.png
+gallery:
+  - url: /professional-artifacts/
     image_path: /assets/images/professional-artifacts.svg
     alt: "Professional Artifacts Placeholder"
     title: "Professional Artifacts"
     excerpt: "Lorem Ipsum"
     # btn_label: "Professional Artifacts"
-  - url: assets/images/educational-artifacts.png
+  - url: /educational-artifacts/
     image_path: /assets/images/educational-artifacts.svg
     alt: "Educational Artifacts Placeholder"
     title: "Educational Artifacts"
     excerpt: "Lorem Ipsum"
-  - url: assets/images/explorative-artifacts.png
+  - url: /explorative-artifacts/
     image_path: /assets/images/explorative-artifacts.svg
     alt: "Explorative Artifacts Placeholder"
     title: "Explorative Artifacts"
@@ -66,7 +66,7 @@ feature_row:
 
 <h1>Available Artifacts</h1>
 
-{% include feature_row %}
+{% include gallery %}
 
 <!--{% include figure image_path="/assets/images/professional-artifacts.png" alt="Placeholder image for professional artifacts link" caption="Review my professional work or projects that reflect skills valued by software documentation writers. " %}
 

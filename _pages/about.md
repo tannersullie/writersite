@@ -5,6 +5,32 @@ layout: single
 toc: true
 toc_label: "Page TOC"
 toc_icon: "file-alt"
+
+feature_row:
+  - image_path: assets/pkmn-team/346.png
+    alt: "Cradily, the Barnacle Pokemon"
+    title: "Cradily"
+    excerpt: "the Barnacle Pokemon"
+  - image_path: assets/pkmn-team/432.png
+    alt: "Purugly, the Tiger Cat Pokemon"
+    title: "Purugly"
+    excerpt: "the Tiger Cat Pokemon"
+  - image_path: assets/pkmn-team/10033.png
+    alt: "Mega Venusaur, the Seed Pokemon"
+    title: "Mega Venosaur"
+    excerpt: "the Seed Pokemon"
+  - image_path: assets/pkmn-team/186.png
+    alt: "Politoad, the Frog Pokemon"
+    title: "Politoad"
+    excerpt: "the Frog Pokemon"
+  - image_path: assets/pkmn-team/205.png
+    alt: "Forretress, the Bagworm Pokemon"
+    title: "Forretress"
+    excerpt: the Bagworm Pokemon
+  - image_path: assets/pkmn-team/465.png
+    alt: "Tangrowth, the Vine Pokemon"
+    title: "Tangrowth"
+    excerpt: "the Vine Pokemon"
 ---
 
 # Hi There!
@@ -18,6 +44,8 @@ Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusm
 ## I am a Pokemon Trainer!
 
 Lorem ipsum
+
+{% include feature_row %}
 
 ## A Few of My Favorite Troubleshooting
 
