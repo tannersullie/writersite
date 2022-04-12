@@ -17,7 +17,7 @@ feature_row:
     excerpt: "the Tiger Cat Pokemon"
   - image_path: assets/pkmn-team/10033.png
     alt: "Mega Venusaur, the Seed Pokemon"
-    title: "Mega Venosaur"
+    title: "Mega Venusaur"
     excerpt: "the Seed Pokemon"
   - image_path: assets/pkmn-team/186.png
     alt: "Politoad, the Frog Pokemon"
