@@ -7,30 +7,31 @@ toc_label: "Page TOC"
 toc_icon: "file-alt"
 
 feature_row:
-  - image_path: assets/pkmn-team/346.png
-    alt: "Cradily, the Barnacle Pokemon"
-    title: "Cradily"
-    excerpt: "the Barnacle Pokemon"
-  - image_path: assets/pkmn-team/432.png
-    alt: "Purugly, the Tiger Cat Pokemon"
-    title: "Purugly"
-    excerpt: "the Tiger Cat Pokemon"
-  - image_path: assets/pkmn-team/10033.png
-    alt: "Mega Venusaur, the Seed Pokemon"
-    title: "Mega Venusaur"
-    excerpt: "the Seed Pokemon"
-  - image_path: assets/pkmn-team/186.png
-    alt: "Politoad, the Frog Pokemon"
-    title: "Politoad"
-    excerpt: "the Frog Pokemon"
-  - image_path: assets/pkmn-team/205.png
-    alt: "Forretress, the Bagworm Pokemon"
-    title: "Forretress"
-    excerpt: the Bagworm Pokemon
   - image_path: assets/pkmn-team/465.png
-    alt: "Tangrowth, the Vine Pokemon"
+    alt: "Tangrowth, The Vine Pokemon"
     title: "Tangrowth"
-    excerpt: "the Vine Pokemon"
+    excerpt: "The Vine Pokemon"
+  - image_path: assets/pkmn-team/432.png
+    alt: "Purugly, The Tiger Cat Pokemon"
+    title: "Purugly"
+    excerpt: "The Tiger Cat Pokemon"
+  - image_path: assets/pkmn-team/10033.png
+    alt: "Mega Venusaur, The Seed Pokemon"
+    title: "Mega Venusaur"
+    excerpt: "The Seed Pokemon"
+  - image_path: assets/pkmn-team/186.png
+    alt: "Politoad, The Frog Pokemon"
+    title: "Politoad"
+    excerpt: "The Frog Pokemon"
+  - image_path: assets/pkmn-team/205.png
+    alt: "Forretress, The Bagworm Pokemon"
+    title: "Forretress"
+    excerpt: "The Bagworm Pokemon"
+  - image_path: assets/pkmn-team/547.png
+    alt: "Whimsicott, The Windveiled Pokemon"
+    title: "Whimsicott"
+    excerpt: "The Windveiled Pokemon"
+
 ---
 
 # Hi There!
