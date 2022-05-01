@@ -1,10 +1,22 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me"
 layout: single
-toc: true
-toc_label: "Page TOC"
-toc_icon: "file-alt"
+# toc: true
+# toc_label: "Page TOC"
+# toc_icon: "file-alt"
+excerpt: "A developing professional exploring many passions"
+header:
+  # overlay_color: ""
+  overlay_image: /assets/images/bottled-drinks.svg
+  image_description: "About Me Banner Placeholder"
+  overlay_filter: .3 # rgba() linear-gradient(rgba()) or decimal value for black
+  show_overlay_excerpt: true
+# caption: "Photo credit: [**Unsplash**]()"
+#  actions:
+#    - label: "More Info"
+#      url: ""
+# classes: wide
 
 feature_row:
   - image_path: assets/pkmn-team/465.png
@@ -34,24 +46,40 @@ feature_row:
 
 ---
 
-# Hi There!
+Tanner Sullivan holds a M.A in Professional and Technical Writing from the University of Arkansas at Little Rock. Since graduating, they have held many positions that leverage writing for software such as a technical writer, product analyst, and even instructor. Tanner lives in Arkansas with his tabby cat, Rachel.
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+<center><img src="/assets/images/Rachel.jpeg" width="300" height="200" alt="Rachel, the friendliest cat" style="padding-left: 30;"></center>
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+<br/>
 
-# Some Other Fun Details
+Lorem ipsum
+
+Lorem Ipsum
+
+# Some Fun Details About Me
 
 ## I am a Pokemon Trainer!
 
-Lorem ipsum
+Pokemon is probably one of my favorite game series. My first game was Pokemon Leaf Green, and I have continued to play even today! Though I enjoy many different games this series stays my favorite. See my favorite dream team below:
 
 {% include feature_row %}
 
-## A Few of My Favorite Troubleshooting
+## Lorem ipsum
 
 Lorem ipsum
 
-## Resources I'd Love to Draw Attention Tom
+# And remember to...
 
-Lorem Ipsum
+![Megaphone spelling out "Vote!"](/assets/images/vote.svg)
+
+It is so important to participate in voting. Please visit [Vote.org](https://www.vote.org) to verify your registration status or learn about voting occurring in your local district.
+
+Or however possible, try to be heard.
+
+<br/>
+
+>
+> Keep Writing
+> Express Yourself
+>
+> Tanner 📗
