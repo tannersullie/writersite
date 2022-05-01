@@ -23,7 +23,6 @@ description:           >- # this means to ignore newlines until "baseurl:"
 twitter_username:      sulliespace
 github_username:       tannersullie
 github: [metadata]
-minimal_mistakes_skin: default
 search:                true
 
 # Build settings
@@ -67,7 +66,7 @@ plugins:
 author:
   name   :             "Tanner Sullivan"
   avatar :             "/assets/images/author-pic.png"
-  bio    :             "M.A in Professional and Technical Writing"
+  bio    :             "M.A. in Professional and Technical Writing"
   repository:          "tannersullie/writersite"
   location:            "Arkansas, US"
   links:
@@ -125,7 +124,7 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
     breadcrumbs:           true #disabled by default
 
@@ -136,7 +135,7 @@ category_archive:
 tag_archive:
   type:                liquid
   path:                /tags/
-  collections:
-    portfolio:
-      output: true
-      permalink: /:collection/:path/
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/

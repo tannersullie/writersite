@@ -46,9 +46,9 @@ feature_row:
 
 ---
 
-Tanner Sullivan holds a M.A in Professional and Technical Writing from the University of Arkansas at Little Rock. Since graduating, they have held many positions that leverage writing for software such as a technical writer, product analyst, and even instructor. Tanner lives in Arkansas with his tabby cat, Rachel.
+Tanner Sullivan holds a M.A. in Professional and Technical Writing from the University of Arkansas at Little Rock. Since graduating, they have held many positions that leverage writing for software such as a technical writer, product analyst, and even instructor. Tanner lives in Arkansas with his tabby cat, Rachel.
 
-<center><img src="/assets/images/Rachel.jpeg" width="300" height="200" alt="Rachel, the friendliest cat" style="padding-left: 30;"></center>
+<center><img src="/assets/images/Rachel.jpeg" width="300" height="200" alt="Rachel, the friendliest cat" style="border: 1px solid black;"></center>
 
 <br/>
 
@@ -58,13 +58,21 @@ Lorem Ipsum
 
 # Some Fun Details About Me
 
+## Herbivore looking for a Hot Stove
+
+I am a vegetarian...
+
 ## I am a Pokemon Trainer!
 
-Pokemon is probably one of my favorite game series. My first game was Pokemon Leaf Green, and I have continued to play even today! Though I enjoy many different games this series stays my favorite. See my favorite dream team below:
+Pokemon is probably one of my favorite game series. My first game was Pokemon Leaf Green, and I have continued to play! My favorite generation is probably Hoenn, and I tend to like grass types, but there is plenty of love for'em all. Though I enjoy many different games this series stays my favorite. See my favorite dream team below:
 
 {% include feature_row %}
 
-## Lorem ipsum
+### A few Honorable Mentions
+
+Lorem Ipsum
+
+## Scifi is Myfi
 
 Lorem ipsum
 
