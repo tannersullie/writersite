@@ -94,9 +94,12 @@ footer:
     - label:           "LinkedIn"
       icon:            "fab fa-fw fa-linkedin"
       url:             "https://www.linkedin.com/in/tanner-sullivan-184491121/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B%2BWCNEXP5RjqwoVrS5yETYg%3D%3D"
-    - label:           "Post Archives"
-      icon:            "fas fa-archive"
-      url:             /meta-archives/
+#    - label:           "Post Archives"
+#      icon:            "fas fa-archive"
+#      url:             /meta-archives/
+    - label:           "🏳️‍🌈"
+      icon:            "fas fa-heart"
+      url:             "https://github.com/ryderdamen/lgbtq_technology_resources"
 
 defaults:
   # _posts

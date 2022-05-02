@@ -5,6 +5,7 @@ permalink: /portfolio/
 collection: portfolio
 entries_layout: grid
 show_excerpts: true
+author_profile: false
 # sort_by: date
 # sort_order: forward
 # header:

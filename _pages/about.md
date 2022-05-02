@@ -45,6 +45,8 @@ feature_row:
     excerpt: "The Windveiled Pokemon"
 
 ---
+Graduating from the University of Arkansas at Little Rock (UALR) with a M.A. in Professional and Technical Writing proved to be more difficult than I originally thought. However, I do not regret the decision now seeing all the doors that additional time of refinement and polish open for me.
+
 
 Tanner Sullivan holds a M.A. in Professional and Technical Writing from the University of Arkansas at Little Rock. Since graduating, they have held many positions that leverage writing for software such as a technical writer, product analyst, and even instructor. Tanner lives in Arkansas with his tabby cat, Rachel.
 
@@ -57,6 +59,8 @@ Lorem ipsum
 Lorem Ipsum
 
 # Some Fun Details About Me
+
+I am really into writing personal short stories, cooking (snacking), roaming the internet for nifty tools, playing games on my Switch, and doom scrolling peacefully to LoFi music.
 
 ## Herbivore looking for a Hot Stove
 
@@ -83,13 +87,3 @@ Lorem ipsum
 It is so important to participate in voting. Please visit [Vote.org](https://www.vote.org) to verify your registration status or learn about voting occurring in your local district.
 
 Or however possible, try to be heard.
-
-<br/>
-
->
-> Keep Writing
->
-> Express Yourself
->
-> Tanner 📗
->
