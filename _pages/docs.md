@@ -1,17 +1,17 @@
 ---
-title: Explorative Artifacts
+title: Documentation Projects
 layout: collection
-permalink: /explorative-artifacts/
-collection: explorative-artifacts
-author_profile: false
+permalink: /docs/
+collection: docs
 entries_layout: grid
 show_excerpts: true
+author_profile: false
 # sort_by: date
 # sort_order: forward
-header:
+# header:
   # overlay_color: ""
-  overlay_image: /assets/images/group-of-writers.png
-  image_description: "Lorem Ipsum"
+  # image: /assets/images/group-of-writers.png
+  # image_description: "Lorem Ipsum"
 # caption: "Photo credit: [**Unsplash**]()"
 #  actions:
 #    - label: "More Info"

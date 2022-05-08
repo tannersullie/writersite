@@ -1,9 +1,18 @@
 main:
   - title: "About Me"
     url: /about/
-  - title: "Blog Posts"
-    url: /posts/
-  - title: "Portfolio Pieces"
-    url: /portfolio/
   - title: "Teaching Statement"
     url: /teaching-statement/
+#  - title: "Blog Posts"
+#    url: /posts/
+  - title: "Werk Work"
+    url: /professional-artifacts/
+  - title: "Learning Work"
+    url: /educational-artifacts/
+  - title: "Fun Stuff"
+    url: /personal-projects/
+
+
+docs:
+  - title: "Lorem Ipsum"
+    url: /Lorem/

@@ -1,10 +1,8 @@
 ---
-title: Indexing and Audience Analysis
+title: Workplace Policy Writing
 layout: single
-permalink: /indexing-artifact/
-collection: portfolio
-tag: educational
-excerpt: "An index developed for a Robohelp project for a Summer course."
+collection: professional-artifacts
+excerpt: "An anti-bullying policy and supporting documentation written to address bullying and harassment in the workplace."
 header:
   # overlay_color: ""
   overlay_image: /assets/images/group-of-writers.svg

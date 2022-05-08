@@ -1,9 +1,8 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-default
 layout: splash
 author_profile: false
+permalink: /
+hidden: true
 excerpt: "Welcome to my portfolio site! Here I hope to house professional, educational, and fun projects I felt help me grow as an individual."
 header:
   # overlay_
@@ -28,8 +27,8 @@ feature_row:
     excerpt: "A collection of my work as an educator for various courses"
   - url: /explorative-artifacts/
     image_path: /assets/images/creative-ideas.svg
-    alt: "Personal Projects Placeholder"
-    title: "Personal Projects"
+    alt: "Explorative Artifacts Placeholder"
+    title: "Explorative Artifacts"
     excerpt: "A collection of projects of personal interest that are noteworthy"
 ---
 
