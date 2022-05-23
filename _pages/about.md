@@ -45,10 +45,13 @@ feature_row:
     excerpt: "The Windveiled Pokemon"
 
 ---
-Graduating from the University of Arkansas at Little Rock (UALR) with a M.A. in Professional and Technical Writing proved to be more difficult than I originally thought. However, I do not regret the decision now seeing all the doors that additional time of refinement and polish open for me.
+Just to buzz through the amazing, wonderful, and _super complicated_ **About** page of Tanner Sullivan:
 
+- Holds a M.A. in Professional and Technical Writing from the University of Arkansas at Little Rock.
 
-Tanner Sullivan holds a M.A. in Professional and Technical Writing from the University of Arkansas at Little Rock. Since graduating, they have held many positions that leverage writing for software such as a technical writer, product analyst, and even instructor. Tanner lives in Arkansas with his tabby cat, Rachel.
+- Worked as a technical writer and other writing/research important positions around the SDLC such as product analyst
+
+- Lives in Arkansas with their tabby cat, Rachel.
 
 <center><img src="/assets/images/Rachel.jpeg" width="300" height="200" alt="Rachel, the friendliest cat" style="border: 1px solid black;"></center>
 

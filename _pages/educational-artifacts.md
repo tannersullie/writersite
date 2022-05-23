@@ -1,5 +1,5 @@
 ---
-title: "Educational Artifacts"
+title: "Education Experience"
 layout: collection
 permalink: /educational-artifacts/
 collection: educational-artifacts

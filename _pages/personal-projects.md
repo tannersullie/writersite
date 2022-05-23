@@ -1,6 +1,6 @@
 ---
 title: "Personal Projects"
-layout: collection
+layout: single
 permalink: /personal-projects/
 collection: personal-projects
 author_profile: false
