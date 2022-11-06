@@ -1,8 +1,9 @@
 ---
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-default
 layout: splash
 author_profile: false
-permalink: /
-hidden: true
 excerpt: "Welcome to my portfolio site! Here I hope to house professional, educational, and fun projects I felt help me grow as an individual."
 header:
   # overlay_
@@ -25,10 +26,10 @@ feature_row:
     alt: "Educational Artifacts Placeholder"
     title: "Educational Artifacts"
     excerpt: "A collection of my work as an educator for various courses"
-  - url: /explorative-artifacts/
+  - url: /personal-projects/
     image_path: /assets/images/creative-ideas.svg
-    alt: "Explorative Artifacts Placeholder"
-    title: "Explorative Artifacts"
+    alt: "Personal Projects Placeholder"
+    title: "Personal Projects"
     excerpt: "A collection of projects of personal interest that are noteworthy"
 ---
 
@@ -37,11 +38,11 @@ feature_row:
 <p>Here I hope to house professional, educational, and fun projects I felt help me grow as an individual.</p>-->
 
 <!--<h1>Purpose</h1>-->
-<h1> Welcome to my Portfolio site!</h1>
+<h1>Hi There 👋</h1>
 
 <p>Within this site, I have shared artifacts from my M.A journey, professional, teaching, and personal experience. There are resources as well that students or any individuals interested in <b>Technical Writing</b>.</p>
 
-<p>Any works related to my Master of Arts in Professional and Technical Writing help demonstrate how I met the following learning outcomes:</p>
+<p>All of my work should reflect my commitment to the learning outcomes of my M.A program:</p>
 
 <ul>
 <li>Demonstrate mastery of craft through attention to detail</li>
@@ -59,15 +60,13 @@ feature_row:
 <li>Conduct myself in a professional manor </li>
 </ul>
 
-<p>If you are interested in reviewing my resume or checking out my professional experience outside of these artifacts, checkout my <a href="https://www.linkedin.com/in/tanner-sullivan-184491121/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B%2BWCNEXP5RjqwoVrS5yETYg%3D%3D" target="_blank">LinkedIn</a>
+<p>If you are interested in reviewing my resume or checking out my professional experience outside of these artifacts, checkout my <a href="https://www.linkedin.com/in/tanner-sullivan-184491121/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B%2BWCNEXP5RjqwoVrS5yETYg%3D%3D" target="_blank">LinkedIn page</a>. Even if I am not looking for a new job, I am always on the lookout for fun projects!</p>
 
-<p> This portfolio also houses some of my work in higher-education and explorative, fun, projects. I am so thankful to the open-source communicty for which this site wouldn't be possible. I use many tools as well on my machine for quality-of-life enhancements (or must-haves).</p>
+<h1> Have a Look Around 👓</h1>
 
-<p>I hope to continue advancing my technical skills and find ways to give back or creatively contribute to the community. ❤️</p>
+<p> This portfolio also houses some of my work in higher-education and explorative, fun, projects. I am so thankful to the open-source community for which this site wouldn't be possible. I use many tools as well on my machine for quality-of-life enhancements (or must-haves).</p>
 
 <br/>
-
-<h1>Available Artifacts</h1>
 
 {% include feature_row %}
 
@@ -79,7 +78,10 @@ feature_row:
 
 <br/>
 
+<p>These artifact pages are also accessible from the navigation or by searching from any page on this site. </p>
 
-<h1> Lorem Ipsum </h1>
+<p> With quite a bit of work behind me, I have a lot of work ahead of me. But no where in this portfolio site do I claim to be perfect. On the contrary, I showcase some of those rough-edges to highlight or explain my growth. Reflecting on my work helps me to contextualize any skills or processes involved in these new experiences.</p>
 
-<p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I hope to continue advancing my technical skills and find ways to give back or creatively contribute to the community. ❤️</p>
+
+<p> Also, feel free to check out how I <a href="#" target="_blank">built this site</a> and some <a href="#" target="_blank">resources</a> that inspire me.</p>
