@@ -64,7 +64,7 @@ Just to buzz through the _important stuff_ first, and then on to the **About** p
 
 - Letting the hyper-focus take the reins when it comes to a few video games like Pokemon, Starbound, Hollow Knight, etc.
 
-If you are familiar, take a look at my [<a href="/assets/local-docs/birkman-chart.pdf" target="_blank">Birkman Chart</a>. (For reference, this is a personality test that helps highilght how an individual works best and how to identify details like emotional needs and stress behaviors.)
+If you are familiar, take a look at my <a href="/assets/local-docs/birkman-chart.pdf" target="_blank">Birkman Chart</a>. (For reference, this is a personality test that helps highilght how an individual works best and how to identify details like emotional needs and stress behaviors.)
 
 # Herbivore Looking for a Hot Stove 🌱
 
