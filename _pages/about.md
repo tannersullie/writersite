@@ -64,6 +64,8 @@ Just to buzz through the _important stuff_ first, and then on to the **About** p
 
 - Letting the hyper-focus take the reins when it comes to a few video games like Pokemon, Starbound, Hollow Knight, etc.
 
+If you are familiar, take a look at my [<a href="/assets/local-docs/birkman-chart.pdf" target="_blank">Birkman Chart</a>. (For reference, this is a personality test that helps highilght how an individual works best and how to identify details like emotional needs and stress behaviors.)
+
 # Herbivore Looking for a Hot Stove 🌱
 
 After a few years of working in the food industry and for my own health, I decided to become a vegetarian in 2019 and haven't looked back since. When people learn this, I often receive a confused look or a comment like, "_why_ give up bacon!?" Be it my extroverted side or the dopamine from talking about food, I am _always_ happy to talk about recipes and tons of healthy noms with others.
