@@ -66,8 +66,8 @@ plugins:
 
 author:
   name   :             "Tanner Sullivan"
-  avatar :             "/assets/images/author-pic.png"
-  bio    :             "M.A. in Professional and Technical Writing"
+  avatar :             "/assets/images/drk-memoji.jpg"
+  bio    :             "MA in Professional and Technical Writing"
   repository:          "tannersullie/writersite"
   location:            "Arkansas, US"
   links:

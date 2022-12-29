@@ -3,8 +3,8 @@ main:
     url: /about/
   - title: "Teaching Statement"
     url: /teaching-statement/
-#  - title: "Blog Posts"
-#    url: /posts/
+  - title: "Blog Posts"
+    url: /posts/
   - title: "Werk Work"
     url: /professional-artifacts/
   - title: "Education EXP"

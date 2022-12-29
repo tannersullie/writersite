@@ -6,7 +6,7 @@ author_profile: true
 excerpt: "My goal as an educator is to foster a collaborative space for students to develop their skills as writers, researchers, and critical thinkers."
 header:
   # overlay_color: ""
-  overlay_image: /assets/images/writing-af.svg
+  overlay_image: /assets/images/teaching-group.svg
   image_description: "Teaching Statement Banner Placeholder"
   overlay_filter: .3 # rgba() linear-gradient(rgba()) or decimal value for black
   show_overlay_excerpt: true

@@ -8,7 +8,7 @@ layout: single
 excerpt: "A developing professional exploring many passions"
 header:
   # overlay_color: ""
-  overlay_image: /assets/images/bottled-drinks.svg
+  overlay_image: /assets/images/peoples.svg
   image_description: "About Me Banner Placeholder"
   overlay_filter: .3 # rgba() linear-gradient(rgba()) or decimal value for black
   show_overlay_excerpt: true
@@ -50,7 +50,7 @@ Just to buzz through the _important stuff_ first, and then on to the **About** p
 
 - Proud queer person
 
-- Holds a B.A and M.A. in Professional and Technical Writing from the University of Arkansas at Little Rock (UALR)
+- Holds a BA and MA in Professional and Technical Writing (PTW) with an Online Writing Instruction (OWI) GC from the University of Arkansas at Little Rock (UALR)
 
 - Has over 5 years of experience as a technical writer and in other writing/research-focused positions around the SDLC, such as product analyst
 
@@ -81,6 +81,12 @@ I don't want to yuck anyone's yum; I simply hope to share what I have learned - 
 Next to sleeping, cooking is definitely of my favorite things to keep me busy. Those are probably my #1 and #2, respectively 🤣 Throughout my life, I've had a problematic relationship with food. My digestive system is tricky, but I crave spicy foods and savory flavors; sweets shouldn't rest peacefully because I have a tooth for them, too. 
 
 You get it: I love spending my time in the kitchen. 
+
+<figure>
+  <img src="/assets/images/chocolate-chocolatechip-walnut-cookies.jpg">
+  <figcaption>The Veganomicon's Chocolate Chocolate Chip Walnut Cookies</figcaption>
+</figure>
+
 
 ## Favorite Cookbook 📚
 
@@ -117,7 +123,7 @@ So, of course, lightning has struck along the way. I found my inspiration be it 
 
 ## Aspiring to be Inspired 💡
 
-My bread and butter lies where *everyone* cringes - documentation. Be it engineers I work with who complained about having to (endlessly) repeat the process to nail down the steps, or end users who imagine working with engineers or SMEs is like making a trip to "over-stimulation-land." (I go there often, but that's where my golden ticket takes me.)
+My bread and butter lies where *everyone* cringes - documentation. Be it engineers I work with who complained about having to (endlessly) repeat the process to nail down the steps, or end users who imagine working with engineers or SMEs is like making a trip to "over-stimulation-land." (I go there often, but that's just me manaing my ADD poorly, haha.)
 
 Whelp, they are all wrong... and right, but there is a zest to it I cannot resist. I enjoy learning about the solutions engineers develop. Be it the earlier in the Software Development LifeCycle (SDLC) with ideation or later with technical documentation, I enjoy the *madness*. Going through conversations to learn and understand details around an enhancement meets my needs to help me to write confidently. 
 

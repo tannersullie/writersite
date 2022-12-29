@@ -10,7 +10,7 @@ header:
   image_description: "About Me Banner Placeholder"
   overlay_filter: .3 # rgba() linear-gradient(rgba()) or decimal value for black
   show_overlay_excerpt: true
-  teaser: /assets/images/group-of-writers.svg
+  teaser: /assets/images/ualr-wsd-spring2022.png
 # caption: "Photo credit: [**Unsplash**]()"
 #  actions:
 #    - label: "More Info"
@@ -20,11 +20,25 @@ sidebar:
   - title: "Role"
     # image: assets/images/aarg.svg
     # image_alt: "alt"
-    text: "Lorem Ipsum"
+    text: "Adjunct Instructor"
   - title: "Responsibilities"
-    text: "more text"
+    text: "To teach undergraduate and graduate students Writing Software Documentation."
 ---
 
-Test Content
+<figure>
+  <img src="/assets/images/ualr-wsd-syllabus-spring2022.png">
+  <figcaption>Writing Software Documentation Syllabus Spring 2022</figcaption>
+</figure>
 
-Execute
+# Project Description
+
+Lorem Ipsum
+
+## Learning Outcomes
+
+- Lorem Ipsum
+
+
+# Reflection
+
+Lorem Ipsum
