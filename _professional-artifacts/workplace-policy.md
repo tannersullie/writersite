@@ -31,23 +31,25 @@ sidebar:
 
 # Project Description
 
-In my Writing for Business and Government class, students were expected to work in groups to create company policies with internal and external facing support materials (such as a press release and internal notice or SOP).
+In my Writing for Business and Government class, this group assignment was to create a workplace policy and a Standard Operating Procedure (SOP) to implement and enforce the policy. We also prepared an internal announcement, preparing our "company," Sullie Grove, for the new policy. 
 
-This was a group project between myself and Eric Grover. We both selected the "Anti-Bullying Policy" topic and worked to create a final polished policy with two supporting documents - a press release and a Standard Operating Procedure (SOP) for internal resources to refer to when filing a complaint.
-
-A third document was created to symbolize a training event the company hosted. This document (independetly) was not a requirement of this project. It was academic research that indicated company investment in culture shifts were a must to make them long lasting.
+Though most would cringe at the idea of *willingly* taking a class to write workplace policies, it was a unique situation to utilize procedure writing. 
 
 ## Learning Outcomes
 
 - Create a variety of documents to support developing and implementing a workplace policy
-- Analyze workplace scenarious around the subject-matter
-- Conduct primary research around workplace policies to identify indistry standards in subject-matter approach
+- Analyze workplace scenarios around the subject-matter
+- Conduct primary research around workplace policies to identify industry standards in the approach to a given subject-matter
 - Work with a teammate to coordinate tasks and deliver a polished product
 
 # Reflection
 
-Going into this class, I anticipated a surplus of dry research, laws, and business policies for reading and discussion. I didn't imagine the contact space government and business policy could create. However, that doesn't mean I was wrong; there was plenty of Plain Language theory and policy editing that prefaced this project.
+Going into this class, I was surprised by how much of my previous procedure writing experience was applicable. Workplace policy writing felt dense and elaborate, similar to some legislative pieces, and more descriptive. My point of view was checked at the door when we started the class with the [Plain Language Guidelines](https://www.plainlanguage.gov/about/definitions/). These guidelines blended wonderfully with writing procedures, giving me the confidence to succeed in this class. 
 
-Before forming groups, each student had to select a policy subject from a list and construct a rough draft based on their own constructed rhetorical situation. We could identify an existing business as our rhetorical situation our create our own. "Sullie Grove Co.," the business my group figuratively created, envisioned as a medium (local produce market) agriculture company that was in need of an anti-bullying policy.
+Before forming groups, each student had to select a policy subject from a list and construct a rough draft based on their constructed rhetorical situation. "Sullie Grove Co.," our faux-business, was envisioned as a medium (local produce market) agriculture company that needed an anti-bullying and harassment policy. This topic motivated me as I encountered bullying when I was younger and even now as an adult. 
 
-We collaborated together and shared our research that informed our decisions for the first drafts using annotated bibliographies (academic journal entries and some web resources). These helped identify the "Dos, Don'ts, and Maybes" of workplace anti-bullying policies we each used to develop our own drafts. This research guided our decisions like what sections we needed to create and what level of detail we should aim to produce.
+As we started to justify our rhetorical situation, our research indicated that this type of policy was a somewhat-newer concept at the workplace level. Still, there was plenty of legislation protecting children, so why not adults? We collaborated and shared our research that informed our decisions for the first drafts using annotated bibliographies. These helped identify the "Dos, Don'ts, and Maybes" of workplace anti-bullying policies. This research guided our decisions, like what sections we needed to create and what level of detail we should aim to produce. 
+
+For instance, we needed to think of "culture shifts" that we could implement to ensure that changes in company policy were accepted and long-lasting. I worked on defining the types of unacceptable behavior and definitions within the policy. Once it was ready, I also helped edit the SOP for implementing the policy. We did a great job breaking up the work and leveraging everyone's skills. The internal announcement was creative and reinforced the pathos around an HR department wanting to assure the safety of employees. 
+
+This experience taught me that I can it wasn't worlds-away to engage with policies. Though this is a symbolic situation, it made me aware of real-world challenges, such as getting employee buy-in and trust that a company will handle reports appropriately. Work insecurity is real, and the fear of any HR/company backlash because of individual [toxic] personalities is a big motivator. 
