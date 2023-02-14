@@ -10,7 +10,7 @@ header:
   image_description: "About Me Banner Placeholder"
   overlay_filter: .3 # rgba() linear-gradient(rgba()) or decimal value for black
   show_overlay_excerpt: true
-  teaser: /assets/images/ualr-wsd-spring2022.png
+  teaser: /assets/images/ualr-wsd-syllabus-spring2022.png
 # caption: "Photo credit: [**Unsplash**]()"
 #  actions:
 #    - label: "More Info"

@@ -73,8 +73,8 @@ After a few years of working in the food industry and for my own health, I decid
 I don't want to yuck anyone's yum; I simply hope to share what I have learned - failures, successes, and all. Many recipes I've found are full of flavor while lower in oil. Where I find myself racing against time, unable to make a balanced meal, that's what the Impossible Nuggets or Beyond Brats are for - lil' something quick and yummy.
 
 <figure class="half">
-    <a href="/assets/images/IMG_7493.png"><img src="/assets/images/IMG_7493.png" alt="Vegan Meatloaf with toast and fresh veggie salad topped with a garlic cream dressing" style="border: 1px solid black;"></a>
-    <a href="/assets/images/62102997820__22945204-02B7-4FC9-BAEC-991A1E5FEA1A.png"><img src="/assets/images/62102997820__22945204-02B7-4FC9-BAEC-991A1E5FEA1A.png" alt="One Dozen each of Vegan Original and Chocolate Donuts" style="border: 1px solid black;"></a>
+    <a href="/assets/images/IMG_7493.png" target="_blank"><img src="/assets/images/IMG_7493.png" alt="Vegan Meatloaf with toast and fresh veggie salad topped with a garlic cream dressing" style="border: 1px solid black;"></a>
+    <a href="/assets/images/62102997820__22945204-02B7-4FC9-BAEC-991A1E5FEA1A.png" target="_blank"><img src="/assets/images/62102997820__22945204-02B7-4FC9-BAEC-991A1E5FEA1A.png" alt="One Dozen each of Vegan Original and Chocolate Donuts" style="border: 1px solid black;"></a>
     <figcaption>A Few Nibbles I've Nommed</figcaption>
 </figure>
 
@@ -82,10 +82,12 @@ Next to sleeping, cooking is definitely of my favorite things to keep me busy. T
 
 You get it: I love spending my time in the kitchen. 
 
-<figure>
-  <img src="/assets/images/chocolate-chocolatechip-walnut-cookies.jpg">
-  <figcaption>The Veganomicon's Chocolate Chocolate Chip Walnut Cookies</figcaption>
+<figure class="half">
+    <a href="/assets/images/chocolate-chocolatechip-walnut-cookies.jpg" target="_blank"><img src="/assets/images/chocolate-chocolatechip-walnut-cookies.jpg" alt="Vegan Chocolate Choc-chip walnut cookies" style="border: 1px solid black;"></a>
+    <a href="/assets/images/oatmeal-cookies.jpeg" target="_blank"><img src="/assets/images/oatmeal-cookies.jpeg" alt="Vegan Oatmeal and Walnut Cookies" style="border: 1px solid black;"></a>
+    <figcaption>A Few Sweets I've Nommed</figcaption>
 </figure>
+
 
 
 ## Favorite Cookbook 📚
