@@ -92,9 +92,7 @@ footer:
 #    - label:           "Post Archives"
 #      icon:            "fas fa-archive"
 #      url:             /meta-archives/
-    - label:           "🏳️‍🌈"
-      icon:            "fas fa-heart"
-      url:             "https://github.com/ryderdamen/lgbtq_technology_resources"
+
 
 defaults:
   # _posts
@@ -125,17 +123,6 @@ defaults:
       author_profile: false
       share: true
     breadcrumbs:           true #disabled by default
-  # _docs
-  - scope:
-      path: "/_portfolio/_docs"
-      type: docs
-    values:
-      layout: single
-      author_profile: false
-      share: true
-    breadcrumbs:           true #disabled by default
-    sidebar:
-      nav: "docs"
   # Professional-artifacts
   - scope:
       path: "/_portfolio/_professional-artifacts"
@@ -174,9 +161,6 @@ tag_archive:
   type:                liquid
   path:                /tags/
 collections:
-  docs:
-    output: true
-    permalink: /portfolio/:collection/:path/
   professional-artifacts:
     output: true
     permalink: /portfolio/:collection/:path/

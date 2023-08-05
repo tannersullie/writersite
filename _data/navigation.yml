@@ -10,8 +10,3 @@ main:
   - title: "Education EXP"
     url: /educational-artifacts/
   - title: "Fun Stuff"
-    url: /personal-projects/
-
-docs:
-  - title: "Lorem Ipsum"
-    url: /Lorem/
