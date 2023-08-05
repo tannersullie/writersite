@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title:                 "Tanner's Writing Site"
 subtitle:              "My Portfolio"
-logo:                  "assets/images/TS-Logo2021-blacknwhite.png"
-favcon:                "assets/images/TS-Logo2021-blacknwhite.ico"
+logo:                  "assets/images/site-logo-ts.png.png"
+favcon:                "assets/images/site-logo-ts.ico"
 email:                 tssullivan115@icloud.com
 description:           >- # this means to ignore newlines until "baseurl:"
   As I level up, I hope to share some of my favorite projects in this portfolio site.
