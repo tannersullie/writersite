@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title:                 "Tanner's Writing Site"
+title:                 "Tanner S"
 subtitle:              "My Portfolio"
 logo:                  "assets/images/site-logo-ts.png"
-favcon:                "assets/images/site-logo-ts.ico"
+favcon:                "assets/images/favicon.ico"
 email:                 tssullivan115@icloud.com
 description:           >- # this means to ignore newlines until "baseurl:"
   As I level up, I hope to share some of my favorite projects in this portfolio site.
