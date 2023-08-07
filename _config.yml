@@ -39,8 +39,7 @@ permalink:             /:categories/:title/
 paginate:              5 # amount of posts to show
 paginate_path:         /page:num/
 timezone:              # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
-google_analytics:      "G-MY06YS4J4B"
+google_analytics:      G-MY06YS4J4B
 
 
 include:
@@ -70,7 +69,7 @@ plugins:
 author:
   name   :             "Tanner Sullivan, MA"
   avatar :             "/assets/images/drk-memoji.jpg"
-  bio    :             "Product Manager & Tech Writer at 💖"
+  bio    :             "Tech Writer (& Foodie) at 💖"
   repository:          "tannersullie/writersite"
   location:            "Arkansas, US"
   links:

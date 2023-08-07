@@ -4,10 +4,9 @@ layout: single
 collection: professional-artifacts
 excerpt: "A reflection over my initial experience as a technical writer training adult learners on software soltuions in the Food Manufacturing industry."
 header:
-  # overlay_color: ""
-  overlay_image: /assets/images/collaboration.png
-  image_description: "About Me Banner Placeholder"
-  overlay_filter: .3 # rgba() linear-gradient(rgba()) or decimal value for black
+  overlay_image: /assets/images/group-of-writers.png
+  image_description: "Writers around books banner placeholder"
+  overlay_filter: .3 
   show_overlay_excerpt: true
   teaser: /assets/images/cat2-sop.png
 # caption: "Photo credit: [**Unsplash**]()"

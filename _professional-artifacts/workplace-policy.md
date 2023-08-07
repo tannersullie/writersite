@@ -4,10 +4,9 @@ layout: single
 collection: professional-artifacts
 excerpt: "An anti-bullying policy and supporting documentation written to address bullying and harassment in the workplace."
 header:
-  # overlay_color: ""
-  overlay_image: /assets/images/writing-checklist.png
-  image_description: "About Me Banner Placeholder"
-  overlay_filter: .3 # rgba() linear-gradient(rgba()) or decimal value for black
+  overlay_image: /assets/images/group-of-writers.png
+  image_description: "Writers around books banner placeholder"
+  overlay_filter: .3 
   show_overlay_excerpt: true
   teaser: /assets/images/rhet-business-policy.png
 # caption: "Photo credit: [**Unsplash**]()"

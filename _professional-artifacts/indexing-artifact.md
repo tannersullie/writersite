@@ -4,10 +4,9 @@ layout: single
 collection: professional-artifacts
 excerpt: "An index developed for a Robohelp project for a Summer course."
 header:
-  # overlay_color: ""
-  overlay_image: /assets/images/teal-writing.svg
-  image_description: "Indexing Banner with Notes, Checklists, and other Documentation vector"
-  overlay_filter: .3 # rgba() linear-gradient(rgba()) or decimal value for black
+  overlay_image: /assets/images/group-of-writers.png
+  image_description: "Writers around books banner placeholder"
+  overlay_filter: .3 
   show_overlay_excerpt: true
   teaser: /assets/images/wsd-robohelp-index.png
 # caption: "Photo credit: [**Unsplash**]()"

@@ -14,11 +14,4 @@ header:
   overlay_filter: .1
 
 classes: wide
-
-# feature_row:
-#  - url: /professional-artifacts/
-#    image_path: /assets/images/work-writing.svg
-#    alt: "Professional Artifacts Placeholder"
-#    title: "Professional Artifacts"
-#    excerpt: "A collection of my work intended to demonstrate my professional skills"
 ---
