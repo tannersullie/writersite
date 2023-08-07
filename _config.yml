@@ -14,16 +14,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title:                 "Tanner S"
-subtitle:              "My Portfolio"
+subtitle:              "My Portfolio Site"
 logo:                  "assets/images/site-logo-ts.png"
-favcon:                "assets/images/favicon.ico"
+favcon:                "assets/images/favicon-16x16.png"
 email:                 tssullivan115@icloud.com
 description:           >- # this means to ignore newlines until "baseurl:"
   As I level up, I hope to share some of my favorite projects in this portfolio site.
   The works included here are focused on technical writing, but who knows what I may explore!
 twitter_username:      sulliespace
 github_username:       tannersullie
-github: [metadata]
+github:                https://github.com/tannersullie/writersite
 search:                true
 
 # Build settings
@@ -33,12 +33,15 @@ minimal_mistakes_skin: "dirt" # "default", "air", "aqua", "contrast", "dark", "d
 locale: "en-US"
 timezone: America/Chicago
 url: https://www.tannerswriting.site
-og_image: /assets/images/TS-Logo2021-blacknwhite.ico
+og_image: /assets/images/og-ref-img.png
 # Outputting
 permalink:             /:categories/:title/
 paginate:              5 # amount of posts to show
 paginate_path:         /page:num/
 timezone:              # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+google_analytics:      G-MY06YS4J4B
+
 
 include:
   - _pages
@@ -65,9 +68,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   :             "Tanner Sullivan"
+  name   :             "Tanner Sullivan, MA"
   avatar :             "/assets/images/drk-memoji.jpg"
-  bio    :             "MA in Professional and Technical Writing"
+  bio    :             "Product Manager & Tech Writer at 💖"
   repository:          "tannersullie/writersite"
   location:            "Arkansas, US"
   links:
@@ -115,17 +118,18 @@ defaults:
       author_profile:  true
       show_date:       true
   # _portfolio
-  - scope:
-      path: "_portfolio"
-      type: portfolio
-    values:
-      layout: wide
-      author_profile: false
-      share: true
-    breadcrumbs:           true #disabled by default
+  # - scope:
+  #     path: "_portfolio"
+  #     type: portfolio
+  #   values:
+  #     layout: wide
+  #     author_profile: false
+  #     share: true
+  #   breadcrumbs:           true #disabled by default
+
   # Professional-artifacts
   - scope:
-      path: "/_portfolio/_professional-artifacts"
+      path: "/professional-artifacts"
       type: professional-artifacts
     values:
       layout: single
@@ -134,8 +138,8 @@ defaults:
     breadcrumbs:           true #disabled by default
   # Educational-artifacts
   - scope:
-      path: "/_portfolio/_educational-artifacts/"
-      type: educational-artifacts
+      path: "/_highered-artifacts/"
+      type: highered-artifacts
     values:
       layout: single
       author_profile: false
@@ -143,7 +147,7 @@ defaults:
     breadcrumbs:           true #disabled by default
   # Explorative-artifacts
   - scope:
-      path: "/_portfolio/_personal-projects/"
+      path: "/_personal-projects/"
       type: personal-projects
     values:
       layout: single
@@ -152,6 +156,7 @@ defaults:
     breadcrumbs:           true #disabled by default
 
 
+ 
 
 
 category_archive:
@@ -163,10 +168,10 @@ tag_archive:
 collections:
   professional-artifacts:
     output: true
-    permalink: /portfolio/:collection/:path/
-  educational-artifacts:
+    permalink: /:collection/:path/
+  highered-artifacts:
     output: true
-    permalink: /portfolio/:collection/:path/
+    permalink: /:collection/:path/
   personal-projects:
     output: true
-    permalink: /portfolio/:collection/:path/
+    permalink: /:collection/:path/

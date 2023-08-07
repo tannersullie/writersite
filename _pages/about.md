@@ -46,27 +46,61 @@ feature_row:
 
 ---
 
-Just to buzz through the _important stuff_ first, and then on to the **About** page of Tanner Sullivan:
+If I had to cliff-note my own about page, I would probably give readers something like the following:
 
-- Proud queer person
+- Proud queer person 🏳️‍🌈
 
-- Holds a BA and MA in Professional and Technical Writing (PTW) with an Online Writing Instruction (OWI) GC from the University of Arkansas at Little Rock (UALR)
+- Received my MA in Professional and Technical Writing and Online Writing Instruction GC from UALR 🧑‍🎓
 
-- Has over 5 years of experience as a technical writer and in other writing/research-focused positions around the SDLC, such as product analyst
+- **+5 yrs** of experience as a **Technical Writer** 🧑‍💻
 
-- Teaches Writing Software Documentation at UALR during the Spring semesters
+- **+2 yrs** of experience as a **Product Professional** 🦹
 
-- Lives in Arkansas with their tabby cat, Rachel (who is the sweetest 😻)
+- **+2 yrs** of teaching **Writing Software Documentation** at UALR 🧑‍🏫
 
-![Rachel, my Sweet Tabby Cat snuggled in Bed]({{ site.url }}{{ site.baseurl }}/assets/images/Rachel.png){: .align-center}
+- 💖 my cats, Rachel (who is the sweetest 😻) and Peaches (well, the sweetest hellion, haha)
 
-- Loves cooking vegan meals... and eating them too
 
-- Letting the hyper-focus take the reins when it comes to a few video games like Pokemon, Starbound, Hollow Knight, etc.
+<figure class="half">
+    <a href="/assets/images/Rachel.png" target="_blank"><img src="/assets/images/Rachel.png" alt="Rachel the tabby cat" style="border: 1px solid black;"></a>
+    <a href="TBA" target="_blank"><img src="/assets/images/Peaches.jpeg" alt="Peaches the tuxedo cat" style="border: 1px solid black;"></a>
+    <figcaption>Left - Rachel the tabby cat; right - Peaches the tuxedo cat</figcaption>
+</figure> 
 
-If you are familiar, take a look at my <a href="/assets/local-docs/birkman-chart.pdf" target="_blank">Birkman Chart</a>. Though this doesn't capture me entirely, it does higlight that I like time to think and noodle on things.
+- Cooking and taste testing too 😋
 
-# Herbivore Looking for a Hot Stove 🌱
+- Playing fun games I can explore in for hours 🕹️
+
+<!-- # My professional background
+
+Lorem Ipsum -->
+
+# A writer learning to love writing 📑
+
+When I was in high school, and my US Civics teacher had us go through the "in 5yrs... in 10yrs..." exercise (selecting career paths and planning for a *successful* life), I did not have "writer" on the list. Both professionally and personally, writing does not come easily to me. Especially at a time where most of my exposure to writing was only around book reports, picking this career out of a line-up would _never_ happen.
+
+![Animated hands reaching for each other]({{ site.url }}{{ site.baseurl }}/assets/images/hands-reaching.jpg){: .align-right style="border: 1px solid black;"} However with a lot of practice, exposure to standards, and noted help, I've found success. I take a lot of time to reflect and think, but once I understand the subject at hand and have a great team to work with, nothing can stop me. None of this would've been possible without my Composition 2 instructor and later chair, Dr. Rankins-Robertson, convinced me that I had a knack for it.
+ Yet, here I am writing and compiling a portfolio using Jekyll (and the [Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/) - thank you, Michael. 
+
+So, of course, lightning has struck by way of listening and studying Youtube/Udemy videos along the way. I found my inspiration be it working with engineers or SMEs to build amazing solutions and students on my favorite subject - software documentation. 
+
+My bread and butter lies where *everyone* cringes - documentation; be it engineers I work with who complained about having to (endlessly) repeat the process to nail down the steps or end users who imagine working with engineers or SMEs is like making a trip to "over-stimulation-land."
+
+Whelp, they are all wrong... and right, but there is a zest to it I cannot resist. I enjoy learning about the solutions engineers develop. Be it the earlier in the Software Development LifeCycle (SDLC) with ideation or later with technical documentation, I enjoy the *madness*. Going through conversations to learn and understand details around an enhancement meets my needs to help me to write confidently. 
+
+# Some fun stuff 👾
+
+If you've ever watched Bob's Burgers and remember Mr. Fischoeder's song, [Nothing Makes Me Happy](https://www.youtube.com/watch?v=KTw_WzFh9Vk), well, my number is up. I love having periods of free time where I can simply let my mind wander and focus drift. The trouble is, between those periods, I **NEED** something to do. _Everything_ has an expiration to how long it can hold my attention, including nothing. 
+
+Pokemon is my favorite game series I've ever played, as they've kept my attention for _ALL_ these years. My first game was Pokemon Leaf Green, and I have continued to play! My favorite generation is either Hoenn or Kalos. (Fuse them together and just give me ORAS if I am being honest.) As I build teams, I tend to favor Grass and Normal types more, but I have plenty of favorites among every type and generation.
+
+There are many Pokemon I love and friends I've made from playing the game. Trying to select only six was very difficult  (nearly impossible tbh), but I was able to pair it down... somehow 😩
+
+<center>{% include feature_row %}</center>
+
+I never played competitively, but I used to train Pokemon and build teams to battle my brother. It was one of the few things we shared an interest in. Lately, I've played a lot of Pokemon Legends Arceus, but I am looking forward to the Scarlet/Violet games!
+
+# Herbivore looking for a hot stove 🌱
 
 After a few years of working in the food industry and for my own health, I decided to become a vegetarian in 2019 and haven't looked back since. When people learn this, I often receive a confused look or a comment like, "_why_ give up bacon!?" Be it my extroverted side or the dopamine from talking about food, I am _always_ happy to talk about recipes and tons of healthy noms with others.
 
@@ -75,67 +109,32 @@ I don't want to yuck anyone's yum; I simply hope to share what I have learned - 
 <figure class="half">
     <a href="/assets/images/IMG_7493.png" target="_blank"><img src="/assets/images/IMG_7493.png" alt="Vegan Meatloaf with toast and fresh veggie salad topped with a garlic cream dressing" style="border: 1px solid black;"></a>
     <a href="/assets/images/62102997820__22945204-02B7-4FC9-BAEC-991A1E5FEA1A.png" target="_blank"><img src="/assets/images/62102997820__22945204-02B7-4FC9-BAEC-991A1E5FEA1A.png" alt="One Dozen each of Vegan Original and Chocolate Donuts" style="border: 1px solid black;"></a>
-    <figcaption>A Few Nibbles I've Nommed</figcaption>
-</figure>
+    <figcaption>Left - Lorem Ipsum; right - Lorem Ipsum</figcaption>
+</figure> 
 
-Next to sleeping, cooking is definitely of my favorite things to keep me busy. Those are probably my #1 and #2, respectively 🤣 Throughout my life, I've had a problematic relationship with food. My digestive system is tricky, but I crave spicy foods and savory flavors; sweets shouldn't rest peacefully because I have a tooth for them, too. 
-
-You get it: I love spending my time in the kitchen. 
+You get it: I love spending my time in the kitchen. It helps me workout my thoughts while the final product results in a delicious meal (or dessert).
 
 <figure class="half">
-    <a href="/assets/images/chocolate-chocolatechip-walnut-cookies.jpg" target="_blank"><img src="/assets/images/chocolate-chocolatechip-walnut-cookies.jpg" alt="Vegan Chocolate Choc-chip walnut cookies" style="border: 1px solid black;"></a>
-    <a href="/assets/images/oatmeal-cookies.jpeg" target="_blank"><img src="/assets/images/oatmeal-cookies.jpeg" alt="Vegan Oatmeal and Walnut Cookies" style="border: 1px solid black;"></a>
-    <figcaption>A Few Sweets I've Nommed</figcaption>
+    <a href="/assets/images/chocolate-chocolatechip-walnut-cookies.jpg" target="_blank"><img src="/assets/images/chocolate-chocolatechip-walnut-cookies.jpg" alt="Vegan chocolate choc-chip walnut cookies" style="border: 1px solid black;"></a>
+    <a href="/assets/images/oatmeal-cookies.jpeg" target="_blank"><img src="/assets/images/oatmeal-cookies.jpeg" alt="Vegan oatmeal and walnut cookies" style="border: 1px solid black;"></a>
+    <figcaption>Left - chocolate chocolate-chip walnut cookies; right - oatmeal raisin walnut cookies</figcaption>
 </figure>
 
-
-
-## Favorite Cookbook 📚
-
-Probably my go-to cookbook is [The Veganomicon](https://www.goodreads.com/book/show/1059680.Veganomicon). Though there are plenty of eBooks lining my app's shelves, collecting dust-bytes, it is undoubtedly my favorite. There are tons of recipes to try, but the book is SUPER well organized. I love using it as an example in my Writing Software Documentation course - highlighting the information design. I call to this masterpiece like Winifred calls for Book:
+Probably my go-to cookbook is [The Veganomicon](https://www.goodreads.com/book/show/1059680.Veganomicon). Though there are plenty of eBooks lining my app's shelves, collecting dust-bytes, it is undoubtedly my favorite. There are tons of recipes to try, but the book is SUPER well organized. (It is one of the best eBooks I've had the pleasure of using.) I love using it as an example in my Writing Software Documentation course - highlighting the information design. I call to this masterpiece like Winifred calls for Book:
 
 <center><div style="width:50%"><div style="height:0;padding-bottom:62.410071942446045%;position:relative;width:100%"><iframe allowfullscreen="" frameBorder="0" height="100%" src="https://giphy.com/embed/fcNiVhbiet9UFsdJK5/video" style="left:0;position:absolute;top:0;" width="100%"></iframe></div></div></center>
 
 <br/>
 
-# Burning Through my Free Time 😴
+The pizza and pie dough recipes are probably my go-to with a runner-up being the oatmeal cookies. 
 
-If you've ever watched Bob's Burgers and remember Mr. Fischoeder's song, [Nothing Makes Me Happy](https://www.youtube.com/watch?v=KTw_WzFh9Vk), well, my number is up. I love having periods of free time where I can simply let my mind wander and focus drift. The trouble is, between those periods, I NEED something to do. Everything has an expiration to how long it can hold my attention - including nothing. 
+# Thank you! 💭
 
-
-
-## So Pokemon 👾
-
-Pokemon is my favorite game series I've ever played, as they've kept my attention for _ALL_ these years. My first game was Pokemon Leaf Green, and I have continued to play! My favorite generation is either Hoenn or Kalos. (Fuse them together and just give me ORAS if I am being honest.) As I build teams, I tend to favor Grass and Normal types more, but I have plenty of favorites amongst every type and generation.
-
-There are many Pokemon I love and friends I've made from playing the game. Trying to select only six was very difficult  (nearly impossible tbh), but I was able to pair it down... somehow 😩
-
-<center>{% include feature_row %}</center>
-
-I never played competitively, but I used to train Pokemon and build teams to battle my brother. It was one of the few things we shared an interest in. Lately, I've played a lot of Pokemon Legends Arceus, but I am looking forward to the Scarlet/Violet games!
-
-# A Writer Learning to Love Writing 🧑‍💻
-
-When I was in high school, and my Civics teacher had us go through the "in 5yrs... in 10yrs..." exercise (selecting career paths and planning for a *successful* life), I did not have "writer" on the list. Both professionally and personally, writing does not come easily to me. 
-
-![Animated hands reaching for each other]({{ site.url }}{{ site.baseurl }}/assets/images/hands-reaching.jpg){: .align-right} I take a lot of time to reflect and think, but taking something out of my universe and putting it into this one can take quite a bit of energy. However, somehow my Composition 2 instructor and later chair for my graduate portfolio, Dr. Rankins-Robertson, convinced me that I had a knack for it.
- Yet, here I am writing and compiling a portfolio using Jekyll (and the [Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/) - thank you, Michael). 
-
-So, of course, lightning has struck along the way. I found my inspiration be it working with engineers and other SMEs to document or ideate solutions, teaching students, or noodle'n (thinking/brainstorming) and jotting a few ideas down for myself. 
-
-## Aspiring to be Inspired 💡
-
-My bread and butter lies where *everyone* cringes - documentation. Be it engineers I work with who complained about having to (endlessly) repeat the process to nail down the steps, or end users who imagine working with engineers or SMEs is like making a trip to "over-stimulation-land." (I go there often, but that's just me manaing my ADD poorly, haha.)
-
-Whelp, they are all wrong... and right, but there is a zest to it I cannot resist. I enjoy learning about the solutions engineers develop. Be it the earlier in the Software Development LifeCycle (SDLC) with ideation or later with technical documentation, I enjoy the *madness*. Going through conversations to learn and understand details around an enhancement meets my needs to help me to write confidently. 
-
-# Sharing a Few Final Thoughts 💭
-
-Thank you for reading! I appreciate your time 🙏 and hope you continue to get to know me through my writing. If work around technical documentation seems interesting to you too, or other forms of non-fiction writing, consider taking a look at the <a href="https://ualr.edu/rhetoric" target="_blank">UALR Professional and Technical Writing Program</a>. I found UALR to be a diverse and wonderful place to start my education and continue it and further my development. 
+Thank you for reading! I appreciate your time 🙏 and hope you continue to get to know me through my writing. If work around technical documentation seems interesting to you too, or other forms of non-fiction writing, consider taking a look at the <a href="https://ualr.edu/rhetoric" target="_blank">UALR Professional and Technical Writing Program</a>.
 
 Also, feel free to reach out on <a href="https://www.linkedin.com/in/tanner-sullivan-184491121/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B%2BWCNEXP5RjqwoVrS5yETYg%3D%3D" target="_blank">LinkedIn</a> if you want to connect. 
 
-## And Don't Forget to Vote! 🗳️
+## Don't forget to vote 🗳️
 
 ![Diverse group of animated people holding signs to encourage voting](/assets/images/voting-peeps.jpg)
 

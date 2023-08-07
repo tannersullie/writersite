@@ -7,6 +7,7 @@ main:
     url: /posts/
   - title: "Werk Work"
     url: /professional-artifacts/
-  - title: "Education EXP"
-    url: /educational-artifacts/
-  - title: "Fun Stuff"
+  - title: "Higher-ed Work"
+    url: /highered-artifacts/
+  - title: "Fun Projects"
+    url: /personal-projects/
