@@ -40,7 +40,7 @@ paginate:              5 # amount of posts to show
 paginate_path:         /page:num/
 timezone:              # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-google_analytics:      G-MY06YS4J4B
+google_analytics:      "G-MY06YS4J4B"
 
 
 include:
@@ -79,7 +79,7 @@ author:
       url:             "https://github.com/tannersullie"
     - label:           "LinkedIn"
       icon:            "fab fa-fw fa-linkedin"
-      url:             "https://www.linkedin.com/in/tanner-sullivan-184491121/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B%2BWCNEXP5RjqwoVrS5yETYg%3D%3D"
+      url:             "https://www.linkedin.com/in/tanner-sullivan-m-a-184491121/"
 
 footer:
   links:
@@ -91,7 +91,7 @@ footer:
       url:             "https://github.com/tannersullie"
     - label:           "LinkedIn"
       icon:            "fab fa-fw fa-linkedin"
-      url:             "https://www.linkedin.com/in/tanner-sullivan-184491121/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B%2BWCNEXP5RjqwoVrS5yETYg%3D%3D"
+      url:             "https://www.linkedin.com/in/tanner-sullivan-m-a-184491121/"
 #    - label:           "Post Archives"
 #      icon:            "fas fa-archive"
 #      url:             /meta-archives/
