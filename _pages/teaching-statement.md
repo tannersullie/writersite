@@ -3,10 +3,10 @@ title: "Teaching Statement"
 layout: single
 permalink: /teaching-statement/
 author_profile: true
-excerpt: "My goal as an educator is to foster a collaborative space for students to develop their skills as writers, researchers, and critical thinkers."
+excerpt: "My goal as an educator is to foster a collaborative space for students to develop their skills as writers and critical thinkers."
 header:
   # overlay_color: ""
-  overlay_image: /assets/images/lgbtq-banner.svg
+  overlay_image: /assets/images/peoples.svg
   image_description: "Lorem Ipsum"
   overlay_filter: .3 # rgba() linear-gradient(rgba()) or decimal value for black
   show_overlay_excerpt: true

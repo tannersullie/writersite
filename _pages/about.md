@@ -8,7 +8,7 @@ layout: single
 excerpt: "A developing professional exploring many passions"
 header:
   # overlay_color: ""
-  overlay_image: /assets/images/peoples.svg
+  overlay_image: /assets/images/lgbtq-banner.svg
   image_description: "About Me Banner Placeholder"
   overlay_filter: .3 # rgba() linear-gradient(rgba()) or decimal value for black
   show_overlay_excerpt: true
@@ -19,31 +19,30 @@ header:
 # classes: wide
 
 feature_row:
-  - image_path: assets/pkmn-team/465.png
-    alt: "Tangrowth, The Vine Pokemon"
-    title: "Tangrowth"
-    excerpt: "The Vine Pokemon"
-  - image_path: assets/pkmn-team/405.png
-    alt: "Luxray, The Gleam Eyes Pokemon"
-    title: "Luxray"
-    excerpt: "The Gleam Eyes Pokemon"
   - image_path: assets/pkmn-team/476.png
     alt: "Probopass, The Compass Pokemon"
     title: "Probopass"
     excerpt: "The Compass Pokemon"
-  - image_path: assets/pkmn-team/3.png
-    alt: "Venusaur, The Seed Pokemon"
-    title: "Venusaur"
-    excerpt: "The Seed Pokemon"
-  - image_path: assets/pkmn-team/203.png
-    alt: "Girafarig, The Long Neck Pokemon"
-    title: "Girafarig"
-    excerpt: "The Long Neck Pokemon"
+  - image_path: assets/pkmn-team/668.png
+    alt: "Pyroar, The Royal Pokemon"
+    title: "Pyroar 'Kit'"
+    excerpt: "The Royal Pokemon"
   - image_path: assets/pkmn-team/186.png
     alt: "Politoad, The Frog Pokemon"
     title: "Politoad"
     excerpt: "The Frog Pokemon"
-
+  - image_path: assets/pkmn-team/465.png
+    alt: "Tangrowth, The Vine Pokemon"
+    title: "Tangrowth"
+    excerpt: "The Vine Pokemon"
+  - image_path: assets/pkmn-team/360.png
+    alt: "Wynaut, The Bright Pokemon"
+    title: "Wynaut"
+    excerpt: "The Bright Pokemon"
+  - image_path: assets/pkmn-team/671-red.png
+    alt: "Florges, The Garden Pokemon"
+    title: "Florges"
+    excerpt: "The Garden Pokemon"
 ---
 
 If I had to cliff-note my own about page, I would probably give readers something like the following:
@@ -71,34 +70,30 @@ If I had to cliff-note my own about page, I would probably give readers somethin
 
 - Playing fun games I can explore in for hours 🕹️
 
-<!-- # My professional background
-
-Lorem Ipsum -->
-
 # A writer learning to love writing 📑
 
 When I was in high school, and my US Civics teacher had us go through the "in 5yrs... in 10yrs..." exercise (selecting career paths and planning for a *successful* life), I did not have "writer" on the list. Both professionally and personally, writing does not come easily to me. Especially at a time where most of my exposure to writing was only around book reports, picking this career out of a line-up would _never_ happen.
 
 ![Animated hands reaching for each other]({{ site.url }}{{ site.baseurl }}/assets/images/hands-reaching.jpg){: .align-right style="border: 1px solid black;"} However with a lot of practice, exposure to standards, and noted help, I've found success. I take a lot of time to reflect and think, but once I understand the subject at hand and have a great team to work with, nothing can stop me. None of this would've been possible without my Composition 2 instructor and later chair, Dr. Rankins-Robertson, convinced me that I had a knack for it.
- Yet, here I am writing and compiling a portfolio using Jekyll (and the [Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/) - thank you, Michael. 
+ Yet, here I am writing and compiling a portfolio using Jekyll (and the [Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/) - thank you, Michael). 
 
 So, of course, lightning has struck by way of listening and studying Youtube/Udemy videos along the way. I found my inspiration be it working with engineers or SMEs to build amazing solutions and students on my favorite subject - software documentation. 
 
-My bread and butter lies where *everyone* cringes - documentation; be it engineers I work with who complained about having to (endlessly) repeat the process to nail down the steps or end users who imagine working with engineers or SMEs is like making a trip to "over-stimulation-land."
+My bread and butter lies where *everyone* cringes - documentation; entering Dante's inferno by repeating a process over-and-over again only to repeat the process next release. Some engineers cringe at the idea of reviewing a single process so much while users might think it is difficult or impossible to talk with techninal resources. 
 
-Whelp, they are all wrong... and right, but there is a zest to it I cannot resist. I enjoy learning about the solutions engineers develop. Be it the earlier in the Software Development LifeCycle (SDLC) with ideation or later with technical documentation, I enjoy the *madness*. Going through conversations to learn and understand details around an enhancement meets my needs to help me to write confidently. 
+Whelp, they are all wrong, for the most part, haha. I enjoy working with engineers to ask questions and learn more about the functionality they created so I can help users to learn exactly _how_ to use it once released. Plus, engaging with new processes and tooling always stimulates my hyper-focus. There are days where I am processed-out, but that just means it is tea time. Be it the earlier in the Software Development LifeCycle (SDLC) with ideation or later with technical documentation, I enjoy the *madness*. 
 
 # Some fun stuff 👾
 
 If you've ever watched Bob's Burgers and remember Mr. Fischoeder's song, [Nothing Makes Me Happy](https://www.youtube.com/watch?v=KTw_WzFh9Vk), well, my number is up. I love having periods of free time where I can simply let my mind wander and focus drift. The trouble is, between those periods, I **NEED** something to do. _Everything_ has an expiration to how long it can hold my attention, including nothing. 
 
-Pokemon is my favorite game series I've ever played, as they've kept my attention for _ALL_ these years. My first game was Pokemon Leaf Green, and I have continued to play! My favorite generation is either Hoenn or Kalos. (Fuse them together and just give me ORAS if I am being honest.) As I build teams, I tend to favor Grass and Normal types more, but I have plenty of favorites among every type and generation.
+Pokemon is my favorite game series, as they've kept my attention for _ALL_ these years. My first game was Pokemon Leaf Green, and hooked ever since! My favorite generation is either Hoenn or Kalos. As I build teams, I tend to favor Grass and Normal types more, but I have plenty of favorites among every type and generation.
 
-There are many Pokemon I love and friends I've made from playing the game. Trying to select only six was very difficult  (nearly impossible tbh), but I was able to pair it down... somehow 😩
+There are many Pokemon I love and friends I've made from playing the games. Trying to select only six was very difficult  (nearly impossible tbh), but I was able to pair it down... somehow 😩
 
 <center>{% include feature_row %}</center>
 
-I never played competitively, but I used to train Pokemon and build teams to battle my brother. It was one of the few things we shared an interest in. Lately, I've played a lot of Pokemon Legends Arceus, but I am looking forward to the Scarlet/Violet games!
+I never played competitively, but I would train teams up to play with my friends. Lately, I've played a lot of Pokemon Legends Arceus, but I am looking forward to the future! Here are all of my [favorite Pokemon](/assets/pkmn-team/img_3617.png) too.
 
 # Herbivore looking for a hot stove 🌱
 
