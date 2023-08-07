@@ -9,12 +9,10 @@ show_excerpts: true
 # sort_by: date
 # sort_order: forward
 header:
-  # overlay_color: ""
-  overlay_image: /assets/images/group-of-writers.png
-  image_description: "Lorem Ipsum"
-# caption: "Photo credit: [**Unsplash**]()"
-#  actions:
-#    - label: "More Info"
-#      url: ""
+
+  overlay_image: /assets/images/pattern-banner-1.svg
+  image_description: "Dots and waves"
+  overlay_filter: .1
+
 classes: wide
 ---

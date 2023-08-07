@@ -2,14 +2,10 @@
 title: "Posts by Year"
 permalink: /posts/
 layout: posts
-author_profile: true
+author_profile: false
 header:
-  # overlay_color: ""
-  image: /assets/images/group-of-writers.png
-  image_description: "Lorem Ipsum"
-# caption: "Photo credit: [**Unsplash**]()"
-#  actions:
-#    - label: "More Info"
-#      url: ""
+  image: /assets/images/blog-posts.svg
+  image_description: "Blog Post banner"
+
 classes: wide
 ---

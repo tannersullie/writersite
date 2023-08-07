@@ -92,9 +92,9 @@ footer:
     - label:           "LinkedIn"
       icon:            "fab fa-fw fa-linkedin"
       url:             "https://www.linkedin.com/in/tanner-sullivan-m-a-184491121/"
-#    - label:           "Post Archives"
-#      icon:            "fas fa-archive"
-#      url:             /meta-archives/
+    - label:           "Post Archives"
+      icon:            "fas fa-archive"
+      url:             /meta-archives/
 
 
 defaults:

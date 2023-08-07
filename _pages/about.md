@@ -107,9 +107,9 @@ After a few years of working in the food industry and for my own health, I decid
 I don't want to yuck anyone's yum; I simply hope to share what I have learned - failures, successes, and all. Many recipes I've found are full of flavor while lower in oil. Where I find myself racing against time, unable to make a balanced meal, that's what the Impossible Nuggets or Beyond Brats are for - lil' something quick and yummy.
 
 <figure class="half">
-    <a href="/assets/images/IMG_7493.png" target="_blank"><img src="/assets/images/IMG_7493.png" alt="Vegan Meatloaf with toast and fresh veggie salad topped with a garlic cream dressing" style="border: 1px solid black;"></a>
-    <a href="/assets/images/62102997820__22945204-02B7-4FC9-BAEC-991A1E5FEA1A.png" target="_blank"><img src="/assets/images/62102997820__22945204-02B7-4FC9-BAEC-991A1E5FEA1A.png" alt="One Dozen each of Vegan Original and Chocolate Donuts" style="border: 1px solid black;"></a>
-    <figcaption>Left - Lorem Ipsum; right - Lorem Ipsum</figcaption>
+    <a href="/assets/images/pizza.jpeg" target="_blank"><img src="/assets/images/pizza.jpeg" alt="Pizza" style="border: 1px solid black;"></a>
+    <a href="/assets/images/mushroom-potpie.jpeg" target="_blank"><img src="/assets/images/mushroom-potpie.jpeg" alt="Mushroom potpie" style="border: 1px solid black;"></a>
+    <figcaption>Left - Pizza; right - Mushroom potpie</figcaption>
 </figure> 
 
 You get it: I love spending my time in the kitchen. It helps me workout my thoughts while the final product results in a delicious meal (or dessert).

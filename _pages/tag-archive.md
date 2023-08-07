@@ -2,14 +2,12 @@
 title: "Posts by Tag"
 permalink: /tags/
 layout: tags
-author_profile: true
+author_profile: false
+sort_by: date
+sort_order: forward
 header:
-  # overlay_color: ""
-  image: /assets/images/group-of-writers.png
-  image_description: "Lorem Ipsum"
-# caption: "Photo credit: [**Unsplash**]()"
-#  actions:
-#    - label: "More Info"
-#      url: ""
+  image: /assets/images/blog-posts.svg
+  image_description: "Blog Post banner"
+
 classes: wide
 ---
