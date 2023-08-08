@@ -24,6 +24,14 @@ sidebar:
 
 # Project Description
 
+## new
+
+- Working w/ BCRAY
+- Hybrid Composition 1 class
+- UALR concepts
+
+## old
+
 After accepting the graduate assistantship, I worked with the Director of Composition over the summer before that fall semester. This was spent reviewing example assignments, past sylibi and course schedules, and figuring out how I was going to guide students to meeting the learning expectations of the learning outcome statement. Fresh from my Composition Theory course, I felt motivated to put my education to work.
 
 Though it was a requirement by the department, centering the class around the portfolio was crucial to my success in creating a student-centered learning environment. The reflective work portfolios rely on students to share their interpretation of the requirements and what expectations/goals they had for themselves. The work I will reference demonstrates how students were successful in the class and how they challenged themselves.
@@ -32,7 +40,7 @@ After planning the course, selecting the assignments, and finalizing the syllabu
 
 ## Learning Outcomes
 
-- Lorem Ipsum
+- Composition Outcome statement
 
 
 # Reflection

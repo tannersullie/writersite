@@ -2,7 +2,7 @@
 title: Online Writing Instruction
 layout: single
 collection: highered-artifacts
-excerpt: "A reflection on my experience earning a Graduate Certificate (GC) in Online Writing Instruction."
+excerpt: "A reflection on my experience earning a graduate certificate in Online Writing Instruction (OWI) at UALR."
 header:
   overlay_color: "#fff"
   overlay_filter: linear-gradient(90deg, hsla(48, 32%, 24%, 1) 0%, hsla(42, 89%, 70%, 1) 100%);
@@ -13,12 +13,8 @@ sidebar:
   - title: "Role"
     text: "Graduate Student"
   - title: "Responsibilities"
-    text: "To design an online Composition 1 course using Google Sites and Google Class."
+    text: "To design an online writing course by creating materials and strategies that foster a rich learning environment."
 ---
-
-
-
-
 
 <figure>
   <img src="/assets/images/owi-syllabus-project.png">
@@ -27,24 +23,24 @@ sidebar:
 
 # Project Description
 
-After my first teaching experience, I signed up for the OWI program to further reflect on my experience and improve as a future educator. With a lot of flexibility, learners get to choose the situation they address. The class I focused on creating for was Composition 1 (or a first-year writing course).
-
-Program Learning outcomes blah and what my goals were for leaving the program
-
-Below are snippets of my work throughout the OWI program. They include:
-
-- Learning outcome sheet
-- Google Site project for an online course creation project
-- Lesson plan draft fueling the Google Site
-- A revised Composition 1 course syllabus
-- Learner Audience Analysis - Scenario Planning
+Completed a graduate certificate that provides writing teachers with graduate-level accredited professional development hours specifically in online writing instruction (OWI). Each course in the program built on one another, leveraging concepts and even work to develop a full online writing class.
 
 ## Learning Outcomes
 
-- Lorem Ipsum
+- Continue to independently improve on OWI principles and effective strategies
+- Create professional materials and strategies to build an online writing course for learners
+- Continue to identify ways to embrace diversity
+- Design for accessibility
+- Share information that can help advance the OWI community
 
 
 # Reflection
+
+## new
+
+Lorem Ipsum
+
+## old
 
 The work in this course taught me how to use different modes of communication to work with students in an online environment. This communication can go beyond an online-only environment to a hybrid environment. This allows me, as an instructor, to communicate with my students in different ways (e.g., video lessons) to reach them more effectively than just comments on a paper or written feedback.
 

@@ -25,9 +25,15 @@ sidebar:
 
 Lorem Ipsum
 
+Study and practice of writing documentation for computer software, including printed manuals, tutorials, reference guides, and online help systems. Emphasis on analyzing prospective users and their tasks, interviewing subject matter experts, developing help for different levels of users, writing user-friendly text, editing documentation for style and clarity, and working on a documentation team. Intensive practice with RoboHELP HTML software for composing online help. 
+
 ## Learning Outcomes
 
-- Lorem Ipsum
+- Research and analyze user guides that address software solutions/tools
+- Research and analyze audience (i.e., user) needs to develop accessible documentation
+- Prepare to work with Subject-Matter Experts (SMEs) to document solutions/tools and their features
+- Be able to create documents that successfully guide users through processes
+- Work with Help Authoring Tools (HATs) such as RoboHelp for composing online help documentation
 
 
 # Reflection
