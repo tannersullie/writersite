@@ -4,7 +4,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-default
 layout: home
 author_profile: false
-excerpt: "Welcome to my portfolio site! Here I hope to house professional, educational, and fun projects that demonstrates my growth."
 header:
   image: assets/images/portfolio-banner-md.svg
   # overlay_filter: .3 # rgba() linear-gradient(rgba()) or decimal value for black
@@ -32,10 +31,21 @@ feature_row:
     # btn_class:
     # btn_label:
 ---
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MY06YS4J4B"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-MY06YS4J4B');
+</script>
+</head>
 
 <h1>👋 Hello hello</h1>
 
-<p>Welcome to my portfolio site; my name is Tanner Sullivan. This site demonstrates my accomplishments as a student, educator, and professional (with a few fun projects too). This site </p>
+<p>Welcome to my portfolio site; my name is Tanner Sullivan. This site demonstrates my accomplishments as a student, educator, and professional (with a few fun projects too).</p>
 
 <p>All of my work should reflect my commitment to the learning outcomes of UALR's Professional and Technical Writing program:</p>
 
