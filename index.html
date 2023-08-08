@@ -45,7 +45,7 @@ feature_row:
 
 <h1>👋 Hello hello</h1>
 
-<p>Welcome to my portfolio site; my name is Tanner Sullivan. This site demonstrates my accomplishments as a student, educator, and professional (with a few fun projects too).</p>
+<p>Welcome to my portfolio site. My name is Tanner Sullivan and I am yet another bald Pokemon catching, scifi loving, child of the internet. This site demonstrates my accomplishments as a student, educator, and professional (with a few fun projects too).</p>
 
 <p>All of my work should reflect my commitment to the learning outcomes of UALR's Professional and Technical Writing program:</p>
 
@@ -62,7 +62,7 @@ feature_row:
 
 <li>Participate in profession beyond classroom</li>
 
-<li>Conduct myself in a professional manor </li>
+<li>Conduct myself in a professional manner</li>
 </ul>
 
 <p>If you are interested in reviewing my resume or checking out my professional experience outside of these artifacts, checkout my <a href="https://www.linkedin.com/in/tanner-sullivan-184491121/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B%2BWCNEXP5RjqwoVrS5yETYg%3D%3D" target="_blank">LinkedIn page</a>. I am always on the lookout for fun projects!</p>
