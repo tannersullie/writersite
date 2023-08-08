@@ -5,16 +5,11 @@ permalink: /teaching-statement/
 author_profile: true
 excerpt: "My goal as an educator is to foster a collaborative space for students to develop their skills as writers and critical thinkers."
 header:
-  # overlay_color: ""
   overlay_image: /assets/images/peoples.svg
   image_description: "Lorem Ipsum"
-  overlay_filter: .3 # rgba() linear-gradient(rgba()) or decimal value for black
+  overlay_filter: .2 # rgba() linear-gradient(rgba()) or decimal value for black
   show_overlay_excerpt: true
-# caption: "Photo credit: [**Unsplash**]()"
-#  actions:
-#    - label: "More Info"
-#      url: ""
-# classes: wide
+
 ---
 
 On the first day of class, I am focused on introducing students to portfolio assessment and making a good first impression just as they might be (or about surviving the class). Not knowing their background or experience with writing, my only intention is to either continue or create an inviting learning experience. I want to create a safe space for all students to share their thoughts and to write in their own language (Royster). I do this by sharing my thoughts and positionality.

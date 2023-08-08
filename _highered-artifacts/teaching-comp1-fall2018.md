@@ -5,21 +5,13 @@ collection: highered-artifacts
 permalink: /highered-artifacts/teaching-comp1-fall2018/
 excerpt: "A reflection over teaching Composition 1 at UALR in the Fall of 2018."
 header:
-  # overlay_color: ""
-  overlay_image: /assets/images/group-of-writers.svg
-  image_description: "About Me Banner Placeholder"
-  overlay_filter: .3 # rgba() linear-gradient(rgba()) or decimal value for black
+  overlay_color: "#fff"
+  overlay_filter: linear-gradient(90deg, hsla(48, 32%, 24%, 1) 0%, hsla(42, 89%, 70%, 1) 100%); # dark to goldenrod
   show_overlay_excerpt: true
   teaser: /assets/images/ualr-comp1-fall2018.png
-# caption: "Photo credit: [**Unsplash**]()"
-#  actions:
-#    - label: "More Info"
-#      url: ""
-# classes: wide
+
 sidebar:
   - title: "Role"
-    # image: assets/images/aarg.svg
-    # image_alt: "alt"
     text: "Teaching Assistent"
   - title: "Responsibilities"
     text: "Working with the Composition Directory, Dr. Ray, to design and teach a Comp 1 course."

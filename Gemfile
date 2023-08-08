@@ -16,6 +16,8 @@ group :jekyll_plugins do
   gem "jemoji"
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
+  gem "jekyll-email-protect"
+  gem "jekyll-seo-tag"
 
 end
 

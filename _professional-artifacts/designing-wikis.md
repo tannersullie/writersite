@@ -4,9 +4,8 @@ layout: single
 collection: professional-artifacts
 excerpt: "A Confluence site I built with multiple spaces (wikis) to address both internal and external audiences."
 header:
-  overlay_image: /assets/images/group-of-writers.png
-  image_description: "Writers around books banner placeholder"
-  overlay_filter: .3 
+  overlay_color: "#fff"
+  overlay_filter: linear-gradient(90deg, hsla(48, 32%, 24%, 1) 0%, hsla(42, 89%, 70%, 1) 100%); # dark to goldenrod
   show_overlay_excerpt: true
   teaser: /assets/images/cat2-confluence-wiki.png
 

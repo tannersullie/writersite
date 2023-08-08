@@ -1,6 +1,6 @@
 ---
 title: "Personal Projects"
-layout: single
+layout: collection
 permalink: /personal-projects/
 collection: personal-projects
 author_profile: false
@@ -12,6 +12,5 @@ header:
   overlay_image: /assets/images/pattern-banner-2.svg
   image_description: "Dots and waves"
   overlay_filter: .1
-
 classes: wide
 ---

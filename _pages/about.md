@@ -2,21 +2,12 @@
 permalink: /about/
 title: "About Me"
 layout: single
-# toc: true
-# toc_label: "Page TOC"
-# toc_icon: "file-alt"
 excerpt: "A developing professional exploring many passions"
 header:
-  # overlay_color: ""
-  overlay_image: /assets/images/lgbtq-banner.svg
+  overlay_image: /assets/images/peoples.svg
   image_description: "About Me Banner Placeholder"
-  overlay_filter: .3 # rgba() linear-gradient(rgba()) or decimal value for black
+  overlay_filter: .2 
   show_overlay_excerpt: true
-# caption: "Photo credit: [**Unsplash**]()"
-#  actions:
-#    - label: "More Info"
-#      url: ""
-# classes: wide
 
 feature_row:
   - image_path: assets/pkmn-team/476.png
