@@ -43,7 +43,7 @@ feature_row:
 </script>
 </head>
 
-<h1>👋 Hello hello</h1>
+<h2>👋 Hello hello</h2>
 
 <p>Welcome to my portfolio site. My name is Tanner Sullivan and I am yet another bald Pokemon catching, scifi loving, child of the internet. This site demonstrates my accomplishments as a student, educator, and professional (with a few fun projects too).</p>
 
@@ -67,11 +67,11 @@ feature_row:
 
 <p>If you are interested in reviewing my resume or checking out my professional experience outside of these artifacts, checkout my <a href="https://www.linkedin.com/in/tanner-sullivan-184491121/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B%2BWCNEXP5RjqwoVrS5yETYg%3D%3D" target="_blank">LinkedIn page</a>. I am always on the lookout for fun projects!</p>
 
-<h1>👓 Have a look around</h1>
+<h2>👓 Have a look around</h2>
 
 <br/>
 
 {% include feature_row %}
 
-<h1>💬 Blog posts</h1>
+<h2>💬 Blog posts</h2>
 

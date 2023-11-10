@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 header:
   overlay_color: "#fff"
-  overlay_filter: linear-gradient(90deg, hsla(48, 32%, 24%, 1) 0%, hsla(42, 89%, 70%, 1) 100%); # dark to goldenrod
+  overlay_filter: linear-gradient(90deg, hsla(40, 1%, 43%, 1) 0%, hsla(42, 51%, 83%, 1) 100%); # gray to bone
   show_overlay_excerpt: true
   teaser: /assets/images/og-ref-img.png
 ---

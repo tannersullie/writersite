@@ -5,7 +5,7 @@ collection: professional-artifacts
 excerpt: "An index developed for a Robohelp project for a Summer course."
 header:
   overlay_color: "#fff"
-  overlay_filter: linear-gradient(90deg, hsla(48, 32%, 24%, 1) 0%, hsla(42, 89%, 70%, 1) 100%); # dark to goldenrod
+  overlay_filter: linear-gradient(90deg, hsla(269, 33%, 21%, 1) 0%, hsla(262, 8%, 48%, 1) 100%); # gradient lavendar
   show_overlay_excerpt: true
   teaser: /assets/images/wsd-robohelp-index.png
 # caption: "Photo credit: [**Unsplash**]()"
@@ -23,7 +23,7 @@ sidebar:
 ---
 
 <figure>
-  <img src="/assets/images/wsd-robohelp-index.png">
+  <img src="/assets/images/wsd-robohelp-index.png" alt="Screenshot of Robohelp project">
   <figcaption>Editing Training Videos - P1 Adobe Captivate & P2 Camtasia Index</figcaption>
 </figure>
 

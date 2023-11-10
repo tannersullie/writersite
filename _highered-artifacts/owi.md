@@ -13,17 +13,17 @@ sidebar:
   - title: "Role"
     text: "Graduate Student"
   - title: "Responsibilities"
-    text: "To design an online writing course by creating materials and strategies that foster a rich learning environment."
+    text: "To design a writing course by creating materials and strategies that foster a rich eLearning environment."
 ---
 
 <figure>
-  <img src="/assets/images/owi-syllabus-project.png">
+  <img src="/assets/images/owi-syllabus-project.png" alt="Screenshot of Course Google Site">
   <figcaption>Mock Syllabus for Final OWI Project</figcaption>
 </figure>
 
 # Project Description
 
-Completed a graduate certificate that provides writing teachers with graduate-level accredited professional development hours specifically in online writing instruction (OWI). Each course in the program built on one another, leveraging concepts and even work to develop a full online writing class.
+Completed a graduate certificate in Online Writing Instruction (OWI) that provides writing teachers with graduate-level accredited professional development hours. Working with program learning outcomes to develop a lesson plan fit for an online learning enviornment using Learning Management Software (LMS) and open source tools. Each course in the program built on one another, leveraging concepts and even work to develop a comprehensive online writing class.
 
 ## Learning Outcomes
 
@@ -36,9 +36,12 @@ Completed a graduate certificate that provides writing teachers with graduate-le
 
 # Reflection
 
-## new
+Throughout this graduate certificate program, I gained valuable insights and skills that not only informed my work as an educator but as a technical writer too. It wasn't something I expected going into the program. Education and my work in the tech industry felt separate - training users how to use software and teaching students about an area/subject of writing. (I didn't know then what I know now, haha.) Instructors in program empowered me to pick topics that interested me which made my work more meaningful. Toward the end of the program, I was able to discuss real situations I experienced when training users and learned ways to improve my writing to better address the process or situation.
 
-Lorem Ipsum
+Earlier in the program, I was really focused on building on concepts from Composition Theory and my first (hybrid) [Composition 1 course]({% link _highered-artifacts/teaching-comp1-fall2018.md %}). Fresh on my mind, I was already aware of the difficulties of engaging with students in a course where students met only twice a week. I used the course time to go over topics and activities, but all content and assignments lived in open source and web-accessible formats. The nerdy kid from grade school who loved the idea of teaching thrived on taking in the tea from my mentors - leveraging open source materials with Google docs and Blackboard. But... student didn't share the "vibe." 
+
+Engagement during the face-to-face (f2f) sessions was great but I didn't receive the same level of communication during the eLearning periods. _Okay, being honest,_ a lot of this was my own expectations glaring at me - anxious about failing my students. I can gab on about almost anything all day, but teaching digitally wasn't the same. Maybe it is the "send" button acting like a publish, the screens, or being overburdened with their own schedules, but _something_ kept students from reaching out. Though this cycle usually ended with next week's f2f class, I wanted out of the cycle. The goal was to communicate as well with students online as offline. 
+
 
 ## old
 

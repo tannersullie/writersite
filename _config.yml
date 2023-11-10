@@ -16,7 +16,7 @@
 title:                 "Tanner S"
 subtitle:              "Portfolio Site"
 logo:                  "assets/images/site-logo-ts.png"
-favcon:                "assets/images/favicon-16x16.png"
+favcon:                "assets/images/favicon.ico"
 email:                 tssullivan115@icloud.com
 hidemyemail:           "vogues-jade-0r@icloud.com"
 description:           "Welcome to my portfolio site. As I level up, I hope to share some of my favorite projects in this portfolio site. The works included here are focused on technical writing, but who knows what I may explore!"
@@ -119,11 +119,11 @@ defaults:
       comments:        true
       share:           true
       related:         true
-    header:
-      overlay_color: "#fff"
-      overlay_filter: linear-gradient(90deg, hsla(48, 32%, 24%, 1) 0%, hsla(42, 89%, 70%, 1) 100%); # dark to goldenrod
-      show_overlay_excerpt: true
-      teaser: /assets/images/og-ref-img.png
+    # header:
+    #   overlay_color: "#000"
+    #   overlay_filter: linear-gradient(90deg, hsla(40, 1%, 43%, 1) 0%, hsla(42, 51%, 83%, 1) 100%); # gray to bone
+    #   show_overlay_excerpt: true
+    #   teaser: /assets/images/og-ref-img.png
   # _pages
   - scope:
       path:            "_pages"
@@ -133,7 +133,7 @@ defaults:
       author_profile:  true
       show_date:       true
     header:
-      overlay_color: "#fff"
+      overlay_color: "#000"
       overlay_filter: linear-gradient(90deg, hsla(48, 32%, 24%, 1) 0%, hsla(42, 89%, 70%, 1) 100%); # dark to goldenrod
       show_overlay_excerpt: true
       teaser: /assets/images/og-ref-img.png
@@ -147,8 +147,8 @@ defaults:
       share: true
     breadcrumbs: true #disabled by default
     header:
-      overlay_color: "#fff"
-      overlay_filter: linear-gradient(90deg, hsla(48, 32%, 24%, 1) 0%, hsla(42, 89%, 70%, 1) 100%); # dark to goldenrod
+      overlay_color: "#000"
+      overlay_filter: linear-gradient(90deg, hsla(269, 33%, 21%, 1) 0%, hsla(262, 8%, 48%, 1) 100%); # gradient lavendar
       show_overlay_excerpt: true
       teaser: /assets/images/og-ref-img.png
   # Educational-artifacts
@@ -161,7 +161,7 @@ defaults:
       share: true
     breadcrumbs: true #disabled by default
     header:
-      overlay_color: "#fff"
+      overlay_color: "#000"
       overlay_filter: linear-gradient(90deg, hsla(48, 32%, 24%, 1) 0%, hsla(42, 89%, 70%, 1) 100%); # dark to goldenrod
       show_overlay_excerpt: true
       teaser: /assets/images/og-ref-img.png
@@ -171,23 +171,24 @@ defaults:
       type: personal-projects
     values:
       layout: collection
-      author_profile: false
+      author_profile: true
       share: true
     breadcrumbs: true #disabled by default
     header:
-      overlay_color: "#fff"
-      overlay_filter: linear-gradient(90deg, hsla(48, 32%, 24%, 1) 0%, hsla(42, 89%, 70%, 1) 100%); # dark to goldenrod
+      overlay_color: "#000"
+      overlay_filter: linear-gradient(90deg, hsla(269, 33%, 21%, 1) 16%, hsla(262, 78%, 31%, 1) 86%, hsla(262, 78%, 51%, 1) 100%); # three point indigo gradient
       show_overlay_excerpt: true
       teaser: /assets/images/og-ref-img.png
 
 # header:
-#   overlay_color: "#fff"
+#   overlay_color: "#000"
 #   linear-gradient(90deg, hsla(263, 32%, 24%, 1) 0%, hsla(262, 78%, 51%, 1) 61%, hsla(42, 89%, 70%, 1) 100%); #lavender to electric to yellow
 #   show_overlay_excerpt: true
 # alternatives
 #   overlay_filter: linear-gradient(90deg, hsla(40, 1%, 43%, 1) 0%, hsla(42, 51%, 83%, 1) 100%); # gray to bone
 #   overlay_filter: linear-gradient(90deg, hsla(48, 32%, 24%, 1) 0%, hsla(42, 89%, 70%, 1) 100%); # dark to goldenrod
 #   overlay_filter: linear-gradient(90deg, hsla(271, 37%, 17%, 1) 0%, hsla(262, 78%, 51%, 1) 100%); # Gradient Indigo
+#   background: linear-gradient(90deg, hsla(269, 33%, 21%, 1) 0%, hsla(262, 8%, 48%, 1) 100%); # Gradient Lavendar
 # writer header
 #   header:
 #       overlay_image: /assets/images/group-of-writers.png

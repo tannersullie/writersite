@@ -2,7 +2,6 @@
 title: Teaching Writing Software Documentation (Spring 2022)
 layout: single
 collection: highered-artifacts
-permalink: /highered-artifacts/teaching-wsd-spring2022/
 excerpt: "A reflection over teaching Writing Software Documentation at UALR in the Spring of 2022."
 header:
   overlay_color: "#fff"
@@ -17,7 +16,7 @@ sidebar:
 ---
 
 <figure>
-  <img src="/assets/images/ualr-wsd-syllabus-spring2022.png">
+  <img src="/assets/images/ualr-wsd-syllabus-spring2022.png" alt="Screenshot of course syllabus">
   <figcaption>Writing Software Documentation Syllabus Spring 2022</figcaption>
 </figure>
 

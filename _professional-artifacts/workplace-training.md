@@ -5,7 +5,7 @@ collection: professional-artifacts
 excerpt: "A reflection over my initial experience as a technical writer training adult learners on software soltuions in the Food Manufacturing industry."
 header:
   overlay_color: "#fff"
-  overlay_filter: linear-gradient(90deg, hsla(48, 32%, 24%, 1) 0%, hsla(42, 89%, 70%, 1) 100%); # dark to goldenrod
+  overlay_filter: linear-gradient(90deg, hsla(269, 33%, 21%, 1) 0%, hsla(262, 8%, 48%, 1) 100%); # gradient lavendar
   show_overlay_excerpt: true
   teaser: /assets/images/cat2-sop.png
 # caption: "Photo credit: [**Unsplash**]()"
@@ -23,7 +23,7 @@ sidebar:
 ---
 
 <figure>
-  <img src="/assets/images/cat2-sop.png">
+  <img src="/assets/images/cat2-sop.png" alt="Screenshot of SOP word document">
   <figcaption>SOP for Creating Customer-facing Training Content</figcaption>
 </figure>
 

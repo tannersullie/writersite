@@ -2,7 +2,6 @@
 title: Teaching Composition 1 (Fall 2018)
 layout: single
 collection: highered-artifacts
-permalink: /highered-artifacts/teaching-comp1-fall2018/
 excerpt: "A reflection over teaching Composition 1 at UALR in the Fall of 2018."
 header:
   overlay_color: "#fff"
@@ -18,7 +17,7 @@ sidebar:
 ---
 
 <figure>
-  <img src="/assets/images/ualr-comp1-fall2018.png">
+  <img src="/assets/images/ualr-comp1-fall2018.png" alt="Screenshot of course syllabus">
   <figcaption>Composition 1 Syllabus</figcaption>
 </figure>
 

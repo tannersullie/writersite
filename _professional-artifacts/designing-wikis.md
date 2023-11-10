@@ -5,7 +5,7 @@ collection: professional-artifacts
 excerpt: "A Confluence site I built with multiple spaces (wikis) to address both internal and external audiences."
 header:
   overlay_color: "#fff"
-  overlay_filter: linear-gradient(90deg, hsla(48, 32%, 24%, 1) 0%, hsla(42, 89%, 70%, 1) 100%); # dark to goldenrod
+  overlay_filter: linear-gradient(90deg, hsla(269, 33%, 21%, 1) 0%, hsla(262, 8%, 48%, 1) 100%); # gradient lavendar
   show_overlay_excerpt: true
   teaser: /assets/images/cat2-confluence-wiki.png
 
@@ -19,7 +19,7 @@ sidebar:
 ---
 
 <figure>
-  <img src="/assets/images/cat2-confluence-wiki.png">
+  <img src="/assets/images/cat2-confluence-wiki.png" alt="Screenshot of confluence wiki">
   <figcaption>CAT Squared Confluence for Mobile Suite</figcaption>
 </figure>
 

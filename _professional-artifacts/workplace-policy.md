@@ -5,7 +5,7 @@ collection: professional-artifacts
 excerpt: "An anti-bullying policy and supporting documentation written to address bullying and harassment in the workplace."
 header:
   overlay_color: "#fff"
-  overlay_filter: linear-gradient(90deg, hsla(48, 32%, 24%, 1) 0%, hsla(42, 89%, 70%, 1) 100%); # dark to goldenrod
+  overlay_filter: linear-gradient(90deg, hsla(269, 33%, 21%, 1) 0%, hsla(262, 8%, 48%, 1) 100%); # gradient lavendar
   show_overlay_excerpt: true
   teaser: /assets/images/rhet-business-policy.png
 # caption: "Photo credit: [**Unsplash**]()"
@@ -23,7 +23,7 @@ sidebar:
 ---
 
 <figure>
-  <img src="/assets/images/rhet-business-policy.png">
+  <img src="/assets/images/rhet-business-policy.png" alt="Screenshot of faux-business policy">
   <figcaption>Workplace Bullying and Harassment Policy</figcaption>
 </figure>
 
