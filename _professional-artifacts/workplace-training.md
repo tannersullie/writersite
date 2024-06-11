@@ -5,7 +5,7 @@ collection: professional-artifacts
 excerpt: "A reflection over my initial experience as a technical writer training adult learners on software soltuions in the Food Manufacturing industry."
 header:
   overlay_color: "#fff"
-  overlay_filter: linear-gradient(90deg, hsla(269, 33%, 21%, 1) 0%, hsla(262, 8%, 48%, 1) 100%); # gradient lavendar
+  overlay_filter: linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%); #dark silver gradient
   show_overlay_excerpt: true
   teaser: /assets/images/cat2-sop.png
 # caption: "Photo credit: [**Unsplash**]()"
