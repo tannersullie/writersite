@@ -5,9 +5,8 @@ permalink: /teaching-statement/
 author_profile: true
 excerpt: "My goal as an educator is to foster a collaborative space for students to develop their skills as writers and critical thinkers."
 header:
-  overlay_image: /assets/images/peoples.svg
-  image_description: "Lorem Ipsum"
-  overlay_filter: .2 # rgba() linear-gradient(rgba()) or decimal value for black
+  overlay_color: "#fff"
+  overlay_filter: linear-gradient(90deg, hsla(228, 17%, 53%, 1) 0%, hsla(229, 28%, 88%, 1) 100%); #silver gradient
   show_overlay_excerpt: true
 
 ---

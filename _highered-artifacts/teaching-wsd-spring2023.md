@@ -5,7 +5,7 @@ collection: highered-artifacts
 excerpt: "A reflection over teaching Writing Software Documentation at UALR in the Spring of 2023."
 header:
   overlay_color: "#fff"
-  overlay_filter: linear-gradient(90deg, hsla(48, 32%, 24%, 1) 0%, hsla(42, 89%, 70%, 1) 100%); # dark to goldenrod
+  overlay_filter: linear-gradient(90deg, hsla(248, 21%, 15%, 1) 0%, hsla(250, 14%, 61%, 1) 100%); #dark silver gradient
   show_overlay_excerpt: true
   teaser: /assets/images/ualr-wsd-syllabus-spring2023.png
 
